@@ -1,0 +1,39 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'css/**'
+      - 'js/**'
+      - 'data/**'
+      - 'assets/**'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    
+    - name: Purge jsDelivr Cache
+      run: |
+        # Get list of changed files
+        CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD || echo "")
+        
+        # Purge each changed file from jsDelivr cache
+        for file in $CHANGED_FILES; do
+          if [[ $file =~ ^(css|js|data|assets)/ ]]; then
+            echo "Purging: $file"
+            curl -X GET "https://purge.jsdelivr.net/gh/a700477k1/apnamock-static@main/$file" || true
+            sleep 1
+          fi
+        done
+      continue-on-error: true
+    
+    - name: Notify Cloudflare Pages
+      run: |
+        # Trigger Cloudflare Pages rebuild if needed
+        echo "Assets updated. Cloudflare Pages will auto-deploy on next push to apnamock-web."
+      continue-on-error: true
