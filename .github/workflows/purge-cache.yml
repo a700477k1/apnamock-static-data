@@ -26,7 +26,7 @@ jobs:
         for file in $CHANGED_FILES; do
           if [[ $file =~ ^(css|js|data|assets)/ ]]; then
             echo "Purging: $file"
-            curl -X GET "https://purge.jsdelivr.net/gh/a700477k1/apnamock-static@main/$file" || true
+            curl -X GET "https://purge.jsdelivr.net/gh/a700477k1/apnamock-static-data@main/$file" || true
             sleep 1
           fi
         done
