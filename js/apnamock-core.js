@@ -13,7 +13,7 @@ const APNA_MOCK_CONFIG = {
   ANIMATION_DURATION: 300,
   TOAST_DURATION: 3000,
   DEBOUNCE_DELAY: 300,
-  API_BASE_URL: 'https://cdn.jsdelivr.net/gh/YOUR_USERNAME/apnamock-static@main/',
+  API_BASE_URL: 'https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data@main/',
   DB_NAME: 'apnamock_db',
   DB_VERSION: 1,
   MAX_HISTORY_ITEMS: 100,
