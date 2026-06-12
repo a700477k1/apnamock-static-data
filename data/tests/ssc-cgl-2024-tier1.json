@@ -4,10 +4,9 @@
   "exam": "SSC",
   "category": "CGL",
   "year": 2024,
-  "questions": 100,
   "duration": 60,
   "difficulty": "moderate",
-  "negative_marking": 0.25,
+  "negativeMarking": 0.25,
   "sections": [
     {
       "name": "General Intelligence and Reasoning",
@@ -30,85 +29,99 @@
       "marks": 50
     }
   ],
-  "question_pool": [
+  "questions": [
     {
-      "id": 1,
-      "section": "General Intelligence and Reasoning",
-      "type": "multiple_choice",
-      "difficulty": "easy",
       "question": {
         "en": "Select the related word/letters/number from the given alternatives. 2 : 4 :: 3 : ?",
         "hi": "दिए गए विकल्पों में से संबंधित शब्द/अक्षर/संख्या चुनें। 2 : 4 :: 3 : ?"
       },
       "options": [
-        { "id": "A", "text": { "en": "6", "hi": "6" } },
-        { "id": "B", "text": { "en": "9", "hi": "9" } },
-        { "id": "C", "text": { "en": "12", "hi": "12" } },
-        { "id": "D", "text": { "en": "15", "hi": "15" } }
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "15",
+          "hi": "15"
+        }
       ],
-      "correct_answer": "B",
+      "correct": 1,
+      "subject": "General Intelligence and Reasoning",
+      "difficulty": "easy",
       "explanation": {
         "en": "2² = 4, so 3² = 9",
         "hi": "2² = 4, इसलिए 3² = 9"
       }
     },
     {
-      "id": 2,
-      "section": "General Awareness",
-      "type": "multiple_choice",
-      "difficulty": "moderate",
       "question": {
         "en": "Who is known as the 'Father of Indian Constitution'?",
         "hi": "'भारतीय संविधान के पिता' के रूप में किसे जाना जाता है?"
       },
       "options": [
-        { "id": "A", "text": { "en": "Mahatma Gandhi", "hi": "महात्मा गांधी" } },
-        { "id": "B", "text": { "en": "Dr. B.R. Ambedkar", "hi": "डॉ. बी.आर. अंबेडकर" } },
-        { "id": "C", "text": { "en": "Jawaharlal Nehru", "hi": "जवाहरलाल नेहरू" } },
-        { "id": "D", "text": { "en": "Sardar Patel", "hi": "सरदार पटेल" } }
+        {
+          "en": "Mahatma Gandhi",
+          "hi": "महात्मा गांधी"
+        },
+        {
+          "en": "Dr. B.R. Ambedkar",
+          "hi": "डॉ. बी.आर. अंबेडकर"
+        },
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Sardar Patel",
+          "hi": "सरदार पटेल"
+        }
       ],
-      "correct_answer": "B",
+      "correct": 1,
+      "subject": "General Awareness",
+      "difficulty": "moderate",
       "explanation": {
         "en": "Dr. B.R. Ambedkar is known as the Father of Indian Constitution as he was the chairman of the drafting committee.",
         "hi": "डॉ. बी.आर. अंबेडकर को भारतीय संविधान का पिता माना जाता है क्योंकि वे प्रारूपण समिति के अध्यक्ष थे।"
       }
     },
     {
-      "id": 3,
-      "section": "Quantitative Aptitude",
-      "type": "multiple_choice",
-      "difficulty": "moderate",
       "question": {
         "en": "If a train travels at 60 km/h, how long will it take to cover 150 km?",
         "hi": "यदि एक ट्रेन 60 किमी/घंटा की गति से यात्रा करती है, तो 150 किमी की दूरी तय करने में कितना समय लगेगा?"
       },
       "options": [
-        { "id": "A", "text": { "en": "2 hours", "hi": "2 घंटे" } },
-        { "id": "B", "text": { "en": "2.5 hours", "hi": "2.5 घंटे" } },
-        { "id": "C", "text": { "en": "3 hours", "hi": "3 घंटे" } },
-        { "id": "D", "text": { "en": "1.5 hours", "hi": "1.5 घंटे" } }
+        {
+          "en": "2 hours",
+          "hi": "2 घंटे"
+        },
+        {
+          "en": "2.5 hours",
+          "hi": "2.5 घंटे"
+        },
+        {
+          "en": "3 hours",
+          "hi": "3 घंटे"
+        },
+        {
+          "en": "1.5 hours",
+          "hi": "1.5 घंटे"
+        }
       ],
-      "correct_answer": "B",
+      "correct": 1,
+      "subject": "Quantitative Aptitude",
+      "difficulty": "moderate",
       "explanation": {
         "en": "Time = Distance/Speed = 150/60 = 2.5 hours",
         "hi": "समय = दूरी/गति = 150/60 = 2.5 घंटे"
       }
     }
-  ],
-  "instructions": {
-    "en": [
-      "The test consists of 100 questions.",
-      "Total time allowed is 60 minutes.",
-      "Each question carries 2 marks.",
-      "There is a negative marking of 0.25 marks for each wrong answer.",
-      "Use of calculators is not allowed."
-    ],
-    "hi": [
-      "परीक्षण में 100 प्रश्न हैं।",
-      "कुल समय 60 मिनट है।",
-      "प्रत्येक प्रश्न 2 अंक का है।",
-      "प्रत्येक गलत उत्तर के लिए 0.25 अंक की नकारात्मक अंकन है।",
-      "कैलकुलेटर का उपयोग वर्जित है।"
-    ]
-  }
+  ]
 }
