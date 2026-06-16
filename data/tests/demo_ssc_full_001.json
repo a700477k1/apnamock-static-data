@@ -9,6 +9,14 @@
   "duration": 4,
   "totalQuestions": 4,
   "totalMarks": 4,
+  "negativeMarking": 0.25,
+  "similarTests": [
+    {
+      "testId": "demo_ssc_full_002",
+      "relationType": "same_exam",
+      "priority": 1
+    }
+  ],
   "sections": [
     {
       "section_id": "demo_sec_ga",
