@@ -1,0 +1,125 @@
+{
+  "patterns": [
+    {
+      "pattern_id": "ssc_full_001",
+      "exam_group": "SSC",
+      "duration": 60,
+      "total_questions": 100,
+      "total_marks": 100,
+      "negative_marking": 0.25,
+      "sections": [
+        {
+          "name": {
+            "en": "General Awareness",
+            "hi": "सामान्य ज्ञान"
+          },
+          "question_count": 25,
+          "marks_per_question": 1,
+          "negative_marks": 0.25,
+          "duration": "",
+          "pool_key": "SSC_GA",
+          "is_mandatory": true
+        },
+        {
+          "name": {
+            "en": "Quantitative Aptitude",
+            "hi": "गणित"
+          },
+          "question_count": 25,
+          "marks_per_question": 1,
+          "negative_marks": 0.25,
+          "duration": "",
+          "pool_key": "SSC_QUANT",
+          "is_mandatory": true
+        },
+        {
+          "name": {
+            "en": "English",
+            "hi": "अंग्रेजी"
+          },
+          "question_count": 25,
+          "marks_per_question": 1,
+          "negative_marks": 0.25,
+          "duration": "",
+          "pool_key": "SSC_ENGLISH",
+          "is_mandatory": true
+        },
+        {
+          "name": {
+            "en": "Reasoning",
+            "hi": "रीजनिंग"
+          },
+          "question_count": 25,
+          "marks_per_question": 1,
+          "negative_marks": 0.25,
+          "duration": "",
+          "pool_key": "SSC_REASONING",
+          "is_mandatory": true
+        }
+      ]
+    },
+    {
+      "pattern_id": "ssc_reasoning_001",
+      "exam_group": "SSC",
+      "duration": 20,
+      "total_questions": 25,
+      "total_marks": 25,
+      "negative_marking": 0.25,
+      "sections": [
+        {
+          "name": {
+            "en": "Reasoning",
+            "hi": "रीजनिंग"
+          },
+          "question_count": 25,
+          "marks_per_question": 1,
+          "negative_marks": 0.25,
+          "duration": 20,
+          "pool_key": "SSC_REASONING",
+          "is_mandatory": true
+        }
+      ]
+    },
+    {
+      "pattern_id": "ssc_english_001",
+      "exam_group": "SSC",
+      "duration": 15,
+      "total_questions": 15,
+      "total_marks": 15,
+      "negative_marking": 0.25,
+      "sections": [
+        {
+          "name": {
+            "en": "English",
+            "hi": "अंग्रेजी"
+          },
+          "question_count": 15,
+          "marks_per_question": 1,
+          "negative_marks": 0.25,
+          "duration": 15,
+          "pool_key": "SSC_ENGLISH",
+          "is_mandatory": true
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "preset_id": "demo_preset_full_001",
+      "name": {
+        "en": "Demo Full Test",
+        "hi": "डेमो फुल टेस्ट"
+      },
+      "exam_group": "SSC",
+      "question_count": 4,
+      "duration": 4,
+      "difficulty": "Mixed",
+      "pattern_id": "",
+      "tags": [
+        "demo",
+        "full-length",
+        "ssc"
+      ]
+    }
+  ]
+}
