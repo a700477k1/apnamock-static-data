@@ -1,0 +1,176 @@
+{
+  "testId": "demo_ssc_full_001",
+  "title": "Demo SSC Full Test 01",
+  "title_i18n": {
+    "en": "Demo SSC Full Test 01",
+    "hi": "डेमो एसएससी फुल टेस्ट 01"
+  },
+  "exam": "SSC",
+  "duration": 4,
+  "totalQuestions": 4,
+  "totalMarks": 4,
+  "sections": [
+    {
+      "section_id": "demo_sec_ga",
+      "title": {
+        "en": "General Awareness",
+        "hi": "सामान्य ज्ञान"
+      }
+    },
+    {
+      "section_id": "demo_sec_quant",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "गणित"
+      }
+    },
+    {
+      "section_id": "demo_sec_english",
+      "title": {
+        "en": "English",
+        "hi": "अंग्रेजी"
+      }
+    },
+    {
+      "section_id": "demo_sec_reasoning",
+      "title": {
+        "en": "Reasoning",
+        "hi": "रीजनिंग"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "demo_q_001",
+      "sectionId": "demo_sec_ga",
+      "question": {
+        "en": "What is the capital of India?",
+        "hi": "भारत की राजधानी क्या है?"
+      },
+      "options": [
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Kolkata",
+          "hi": "कोलकाता"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The capital of India is New Delhi.",
+        "hi": "भारत की राजधानी नई दिल्ली है।"
+      },
+      "marks": 1,
+      "negativeMarks": 0.25
+    },
+    {
+      "id": "demo_q_002",
+      "sectionId": "demo_sec_quant",
+      "question": {
+        "en": "2 + 2 = ?",
+        "hi": "2 + 2 = ?"
+      },
+      "options": [
+        {
+          "en": 3,
+          "hi": 3
+        },
+        {
+          "en": 5,
+          "hi": 5
+        },
+        {
+          "en": 4,
+          "hi": 4
+        },
+        {
+          "en": 6,
+          "hi": 6
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "2 + 2 = 4.",
+        "hi": "2 + 2 = 4 होता है।"
+      },
+      "marks": 1,
+      "negativeMarks": 0.25
+    },
+    {
+      "id": "demo_q_003",
+      "sectionId": "demo_sec_english",
+      "question": {
+        "en": "Select the antonym of Happy.",
+        "hi": "Happy का विलोम शब्द चुनिए।"
+      },
+      "options": [
+        {
+          "en": "Joyful",
+          "hi": "Joyful"
+        },
+        {
+          "en": "Sad",
+          "hi": "Sad"
+        },
+        {
+          "en": "Bright",
+          "hi": "Bright"
+        },
+        {
+          "en": "Fast",
+          "hi": "Fast"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The antonym of Happy is Sad.",
+        "hi": "Happy का विलोम Sad है।"
+      },
+      "marks": 1,
+      "negativeMarks": 0.25
+    },
+    {
+      "id": "demo_q_004",
+      "sectionId": "demo_sec_reasoning",
+      "question": {
+        "en": "Choose the odd one out.",
+        "hi": "विषम विकल्प चुनिए।"
+      },
+      "options": [
+        {
+          "en": "Apple",
+          "hi": "सेब"
+        },
+        {
+          "en": "Banana",
+          "hi": "केला"
+        },
+        {
+          "en": "Mango",
+          "hi": "आम"
+        },
+        {
+          "en": "Car",
+          "hi": "कार"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Apple, Banana and Mango are fruits, while Car is not a fruit.",
+        "hi": "सेब, केला और आम फल हैं, जबकि कार फल नहीं है।"
+      },
+      "marks": 1,
+      "negativeMarks": 0.25
+    }
+  ]
+}
