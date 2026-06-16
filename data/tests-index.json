@@ -1,134 +1,16 @@
 {
   "tests": [
     {
-      "id": "ssc-cgl-2024-tier1",
-      "title": "SSC CGL 2024 Tier 1",
-      "exam": "SSC",
-      "category": "CGL",
-      "year": 2024,
-      "questions": 100,
-      "duration": 60,
-      "difficulty": "moderate",
-      "file": "data/tests/ssc-cgl-2024-tier1.json",
-      "tags": ["SSC", "CGL", "Tier 1", "Previous Year"]
-    },
-    {
-      "id": "ssc-chsl-2024",
-      "title": "SSC CHSL 2024",
-      "exam": "SSC",
-      "category": "CHSL",
-      "year": 2024,
-      "questions": 100,
-      "duration": 60,
-      "difficulty": "easy",
-      "file": "data/tests/ssc-chsl-2024.json",
-      "tags": ["SSC", "CHSL", "Previous Year"]
-    },
-    {
-      "id": "ibps-po-2023",
-      "title": "IBPS PO 2023",
-      "exam": "Banking",
-      "category": "IBPS",
-      "year": 2023,
-      "questions": 100,
-      "duration": 60,
-      "difficulty": "hard",
-      "file": "data/tests/ibps-po-2023.json",
-      "tags": ["Banking", "IBPS", "PO", "Previous Year"]
-    },
-    {
-      "id": "sbi-po-2023",
-      "title": "SBI PO 2023",
-      "exam": "Banking",
-      "category": "SBI",
-      "year": 2023,
-      "questions": 100,
-      "duration": 60,
-      "difficulty": "hard",
-      "file": "data/tests/sbi-po-2023.json",
-      "tags": ["Banking", "SBI", "PO", "Previous Year"]
-    },
-    {
-      "id": "rrb-ntpc-2024",
-      "title": "RRB NTPC 2024",
-      "exam": "Railway",
-      "category": "NTPC",
-      "year": 2024,
-      "questions": 100,
-      "duration": 90,
-      "difficulty": "moderate",
-      "file": "data/tests/rrb-ntpc-2024.json",
-      "tags": ["Railway", "RRB", "NTPC", "Previous Year"]
-    },
-    {
-      "id": "rrb-group-d-2024",
-      "title": "RRB Group D 2024",
-      "exam": "Railway",
-      "category": "Group D",
-      "year": 2024,
-      "questions": 100,
-      "duration": 90,
-      "difficulty": "easy",
-      "file": "data/tests/rrb-group-d-2024.json",
-      "tags": ["Railway", "RRB", "Group D", "Previous Year"]
-    },
-    {
-      "id": "ctet-2024",
-      "title": "CTET 2024",
-      "exam": "Teaching",
-      "category": "CTET",
-      "year": 2024,
-      "questions": 150,
-      "duration": 150,
-      "difficulty": "moderate",
-      "file": "data/tests/ctet-2024.json",
-      "tags": ["Teaching", "CTET", "Previous Year"]
-    },
-    {
-      "id": "nda-2024",
-      "title": "NDA 2024",
-      "exam": "Defence",
-      "category": "NDA",
-      "year": 2024,
-      "questions": 120,
-      "duration": 150,
-      "difficulty": "hard",
-      "file": "data/tests/nda-2024.json",
-      "tags": ["Defence", "NDA", "Previous Year"]
-    },
-    {
-      "id": "cds-2024",
-      "title": "CDS 2024",
-      "exam": "Defence",
-      "category": "CDS",
-      "year": 2024,
-      "questions": 120,
-      "duration": 120,
-      "difficulty": "hard",
-      "file": "data/tests/cds-2024.json",
-      "tags": ["Defence", "CDS", "Previous Year"]
-    },
-    {
-      "id": "upsc-prelims-2024",
-      "title": "UPSC Prelims 2024",
-      "exam": "State",
-      "category": "UPSC",
-      "year": 2024,
-      "questions": 100,
-      "duration": 120,
-      "difficulty": "hard",
-      "file": "data/tests/upsc-prelims-2024.json",
-      "tags": ["State", "UPSC", "Prelims", "Previous Year"]
+      "test_id": "demo_ssc_full_001",
+      "exam_group": "SSC",
+      "title": {
+        "en": "Demo SSC Full Test 01",
+        "hi": "डेमो एसएससी फुल टेस्ट 01"
+      },
+      "duration": 4,
+      "totalMarks": 4,
+      "totalQuestions": 4,
+      "file": "data/tests/demo_ssc_full_001.json"
     }
-  ],
-  "total": 10,
-  "exams": ["SSC", "Banking", "Railway", "Teaching", "Defence", "State"],
-  "categories": {
-    "SSC": ["CGL", "CHSL", "MTS", "GD"],
-    "Banking": ["IBPS", "SBI", "RBI"],
-    "Railway": ["NTPC", "Group D", "ALP"],
-    "Teaching": ["CTET", "TET", "KVS"],
-    "Defence": ["NDA", "CDS", "AFCAT"],
-    "State": ["UPSC", "State PSC", "Police"]
-  }
+  ]
 }
