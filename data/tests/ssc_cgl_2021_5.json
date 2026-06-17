@@ -1,0 +1,449 @@
+{
+  "testId": "ssc_cgl_2021_5",
+  "test_id": "ssc_cgl_2021_5",
+  "title": "SSC CGL Mock Test 5",
+  "title_i18n": {
+    "en": "SSC CGL Mock Test 5",
+    "hi": "?????? ?????? ??? ????? 5"
+  },
+  "exam_group": "SSC",
+  "exam": "SSC CGL",
+  "paper_type": "PYQ",
+  "year": 2020,
+  "subject": "General Intelligence",
+  "topic": "Mixed",
+  "category": "Full Test",
+  "duration": 60,
+  "totalQuestions": 10,
+  "totalMarks": 10,
+  "negativeMarking": 0.25,
+  "language_mode": "bilingual",
+  "sections": [
+    {
+      "section_id": "ssc_cgl_2021_5_reasoning",
+      "title": {
+        "en": "General Intelligence",
+        "hi": "??????? ???????????"
+      }
+    },
+    {
+      "section_id": "ssc_cgl_2021_5_math",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "?????????? ???????"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "question": {
+        "en": "What is sample question 1?",
+        "hi": "????? ?????? 1 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 1",
+        "hi": "?????? 1 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q2",
+      "question": {
+        "en": "What is sample question 2?",
+        "hi": "????? ?????? 2 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 2",
+        "hi": "?????? 2 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q3",
+      "question": {
+        "en": "What is sample question 3?",
+        "hi": "????? ?????? 3 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 3",
+        "hi": "?????? 3 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q4",
+      "question": {
+        "en": "What is sample question 4?",
+        "hi": "????? ?????? 4 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 4",
+        "hi": "?????? 4 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q5",
+      "question": {
+        "en": "What is sample question 5?",
+        "hi": "????? ?????? 5 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 5",
+        "hi": "?????? 5 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q6",
+      "question": {
+        "en": "What is sample question 6?",
+        "hi": "????? ?????? 6 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 6",
+        "hi": "?????? 6 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q7",
+      "question": {
+        "en": "What is sample question 7?",
+        "hi": "????? ?????? 7 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 7",
+        "hi": "?????? 7 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q8",
+      "question": {
+        "en": "What is sample question 8?",
+        "hi": "????? ?????? 8 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 8",
+        "hi": "?????? 8 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q9",
+      "question": {
+        "en": "What is sample question 9?",
+        "hi": "????? ?????? 9 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 9",
+        "hi": "?????? 9 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    },
+    {
+      "id": "Q10",
+      "question": {
+        "en": "What is sample question 10?",
+        "hi": "????? ?????? 10 ???? ???"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "?????? A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "?????? B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "?????? C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "?????? D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 10",
+        "hi": "?????? 10 ?? ??????????"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2021_5_reasoning"
+    }
+  ]
+}
