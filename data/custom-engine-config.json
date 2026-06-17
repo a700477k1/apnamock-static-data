@@ -103,23 +103,15 @@
       ]
     }
   ],
-  "presets": [
+  "presets": [],
+  "question_pools": [
     {
-      "preset_id": "demo_preset_full_001",
-      "name": {
-        "en": "Demo Full Test",
-        "hi": "डेमो फुल टेस्ट"
-      },
+      "pool_key": "SSC_DEMO_MIXED",
       "exam_group": "SSC",
-      "question_count": 4,
-      "duration": 4,
-      "difficulty": "Mixed",
-      "pattern_id": "",
-      "tags": [
-        "demo",
-        "full-length",
-        "ssc"
-      ]
+      "subject": "Mixed",
+      "topic": "Mixed",
+      "json_path": "/custom-tests/pools/ssc/ssc_demo_mixed_pool.json",
+      "active_questions": 4
     }
   ]
 }
