@@ -1,16 +1,224 @@
 {
   "tests": [
     {
-      "test_id": "demo_ssc_full_001",
+      "test_id": "ssc_cgl_2021_1",
+      "id": "ssc_cgl_2021_1",
       "exam_group": "SSC",
-      "title": {
-        "en": "Demo SSC Full Test 01",
-        "hi": "डेमो एसएससी फुल टेस्ट 01"
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2021,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 1",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 1",
+        "hi": "?????? ?????? ??? ????? 1"
       },
-      "duration": 4,
-      "totalMarks": 4,
-      "totalQuestions": 4,
-      "file": "data/tests/demo_ssc_full_001.json"
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2021_1.json"
+    },
+    {
+      "test_id": "ssc_cgl_2022_2",
+      "id": "ssc_cgl_2022_2",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2022,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 2",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 2",
+        "hi": "?????? ?????? ??? ????? 2"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2022_2.json"
+    },
+    {
+      "test_id": "ssc_cgl_2023_3",
+      "id": "ssc_cgl_2023_3",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2023,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 3",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 3",
+        "hi": "?????? ?????? ??? ????? 3"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2023_3.json"
+    },
+    {
+      "test_id": "ssc_cgl_2020_4",
+      "id": "ssc_cgl_2020_4",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2024,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 4",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 4",
+        "hi": "?????? ?????? ??? ????? 4"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2020_4.json"
+    },
+    {
+      "test_id": "ssc_cgl_2021_5",
+      "id": "ssc_cgl_2021_5",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 5",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 5",
+        "hi": "?????? ?????? ??? ????? 5"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2021_5.json"
+    },
+    {
+      "test_id": "ssc_cgl_2022_6",
+      "id": "ssc_cgl_2022_6",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2021,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 6",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 6",
+        "hi": "?????? ?????? ??? ????? 6"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2022_6.json"
+    },
+    {
+      "test_id": "ssc_cgl_2023_7",
+      "id": "ssc_cgl_2023_7",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2022,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 7",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 7",
+        "hi": "?????? ?????? ??? ????? 7"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2023_7.json"
+    },
+    {
+      "test_id": "ssc_cgl_2020_8",
+      "id": "ssc_cgl_2020_8",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2023,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 8",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 8",
+        "hi": "?????? ?????? ??? ????? 8"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2020_8.json"
+    },
+    {
+      "test_id": "ssc_cgl_2021_9",
+      "id": "ssc_cgl_2021_9",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2024,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 9",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 9",
+        "hi": "?????? ?????? ??? ????? 9"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2021_9.json"
+    },
+    {
+      "test_id": "ssc_cgl_2022_10",
+      "id": "ssc_cgl_2022_10",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 10",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 10",
+        "hi": "?????? ?????? ??? ????? 10"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "file": "data/tests/ssc_cgl_2022_10.json"
     }
   ]
 }
