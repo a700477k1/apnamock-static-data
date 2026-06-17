@@ -1,0 +1,162 @@
+{
+  "pool_key": "SSC_DEMO_MIXED",
+  "total_available": 4,
+  "questions": [
+    {
+      "id": "demo_q_001",
+      "exam_group": "SSC",
+      "subject": "Mixed",
+      "topic": "India GK",
+      "difficulty": "Easy",
+      "tags": [
+        "capital",
+        "india",
+        "gk"
+      ],
+      "question": {
+        "en": "What is the capital of India?",
+        "hi": "भारत की राजधानी क्या है?"
+      },
+      "options": [
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Kolkata",
+          "hi": "कोलकाता"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The capital of India is New Delhi.",
+        "hi": "भारत की राजधानी नई दिल्ली है।"
+      }
+    },
+    {
+      "id": "demo_q_002",
+      "exam_group": "SSC",
+      "subject": "Mixed",
+      "topic": "Arithmetic",
+      "difficulty": "Easy",
+      "tags": [
+        "math",
+        "addition",
+        "arithmetic"
+      ],
+      "question": {
+        "en": "2 + 2 = ?",
+        "hi": "2 + 2 = ?"
+      },
+      "options": [
+        {
+          "en": 3,
+          "hi": 3
+        },
+        {
+          "en": 5,
+          "hi": 5
+        },
+        {
+          "en": 4,
+          "hi": 4
+        },
+        {
+          "en": 6,
+          "hi": 6
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "en": "2 + 2 = 4.",
+        "hi": "2 + 2 = 4 होता है।"
+      }
+    },
+    {
+      "id": "demo_q_003",
+      "exam_group": "SSC",
+      "subject": "Mixed",
+      "topic": "Vocabulary",
+      "difficulty": "Easy",
+      "tags": [
+        "english",
+        "vocabulary",
+        "antonyms"
+      ],
+      "question": {
+        "en": "Select the antonym of Happy.",
+        "hi": "Happy का विलोम शब्द चुनिए।"
+      },
+      "options": [
+        {
+          "en": "Joyful",
+          "hi": "Joyful"
+        },
+        {
+          "en": "Sad",
+          "hi": "Sad"
+        },
+        {
+          "en": "Bright",
+          "hi": "Bright"
+        },
+        {
+          "en": "Fast",
+          "hi": "Fast"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "en": "The antonym of Happy is Sad.",
+        "hi": "Happy का विलोम Sad है।"
+      }
+    },
+    {
+      "id": "demo_q_004",
+      "exam_group": "SSC",
+      "subject": "Mixed",
+      "topic": "Odd One Out",
+      "difficulty": "Easy",
+      "tags": [
+        "reasoning",
+        "classification",
+        "odd-one-out"
+      ],
+      "question": {
+        "en": "Choose the odd one out.",
+        "hi": "विषम विकल्प चुनिए।"
+      },
+      "options": [
+        {
+          "en": "Apple",
+          "hi": "सेब"
+        },
+        {
+          "en": "Banana",
+          "hi": "केला"
+        },
+        {
+          "en": "Mango",
+          "hi": "आम"
+        },
+        {
+          "en": "Car",
+          "hi": "कार"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "en": "Apple, Banana and Mango are fruits, while Car is not a fruit.",
+        "hi": "सेब, केला और आम फल हैं, जबकि कार फल नहीं है।"
+      }
+    }
+  ]
+}
