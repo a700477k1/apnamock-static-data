@@ -4,7 +4,7 @@
   "title": "SSC CGL Mock Test 4",
   "title_i18n": {
     "en": "SSC CGL Mock Test 4",
-    "hi": "?????? ?????? ??? ????? 4"
+    "hi": "एसएससी सीजीएल मॉक टेस्ट 4"
   },
   "exam_group": "SSC",
   "exam": "SSC CGL",
@@ -23,14 +23,14 @@
       "section_id": "ssc_cgl_2020_4_reasoning",
       "title": {
         "en": "General Intelligence",
-        "hi": "??????? ???????????"
+        "hi": "सामान्य बुद्धिमत्ता"
       }
     },
     {
       "section_id": "ssc_cgl_2020_4_math",
       "title": {
         "en": "Quantitative Aptitude",
-        "hi": "?????????? ???????"
+        "hi": "मात्रात्मक योग्यता"
       }
     }
   ],
@@ -39,28 +39,28 @@
       "id": "Q1",
       "question": {
         "en": "What is sample question 1?",
-        "hi": "????? ?????? 1 ???? ???"
+        "hi": "नमूना प्रश्न 1 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -71,7 +71,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 1",
-        "hi": "?????? 1 ?? ??????????"
+        "hi": "प्रश्न 1 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -80,28 +80,28 @@
       "id": "Q2",
       "question": {
         "en": "What is sample question 2?",
-        "hi": "????? ?????? 2 ???? ???"
+        "hi": "नमूना प्रश्न 2 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -112,7 +112,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 2",
-        "hi": "?????? 2 ?? ??????????"
+        "hi": "प्रश्न 2 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -121,28 +121,28 @@
       "id": "Q3",
       "question": {
         "en": "What is sample question 3?",
-        "hi": "????? ?????? 3 ???? ???"
+        "hi": "नमूना प्रश्न 3 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -153,7 +153,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 3",
-        "hi": "?????? 3 ?? ??????????"
+        "hi": "प्रश्न 3 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -162,28 +162,28 @@
       "id": "Q4",
       "question": {
         "en": "What is sample question 4?",
-        "hi": "????? ?????? 4 ???? ???"
+        "hi": "नमूना प्रश्न 4 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -194,7 +194,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 4",
-        "hi": "?????? 4 ?? ??????????"
+        "hi": "प्रश्न 4 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -203,28 +203,28 @@
       "id": "Q5",
       "question": {
         "en": "What is sample question 5?",
-        "hi": "????? ?????? 5 ???? ???"
+        "hi": "नमूना प्रश्न 5 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -235,7 +235,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 5",
-        "hi": "?????? 5 ?? ??????????"
+        "hi": "प्रश्न 5 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -244,28 +244,28 @@
       "id": "Q6",
       "question": {
         "en": "What is sample question 6?",
-        "hi": "????? ?????? 6 ???? ???"
+        "hi": "नमूना प्रश्न 6 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -276,7 +276,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 6",
-        "hi": "?????? 6 ?? ??????????"
+        "hi": "प्रश्न 6 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -285,28 +285,28 @@
       "id": "Q7",
       "question": {
         "en": "What is sample question 7?",
-        "hi": "????? ?????? 7 ???? ???"
+        "hi": "नमूना प्रश्न 7 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -317,7 +317,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 7",
-        "hi": "?????? 7 ?? ??????????"
+        "hi": "प्रश्न 7 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -326,28 +326,28 @@
       "id": "Q8",
       "question": {
         "en": "What is sample question 8?",
-        "hi": "????? ?????? 8 ???? ???"
+        "hi": "नमूना प्रश्न 8 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -358,7 +358,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 8",
-        "hi": "?????? 8 ?? ??????????"
+        "hi": "प्रश्न 8 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -367,28 +367,28 @@
       "id": "Q9",
       "question": {
         "en": "What is sample question 9?",
-        "hi": "????? ?????? 9 ???? ???"
+        "hi": "नमूना प्रश्न 9 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -399,7 +399,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 9",
-        "hi": "?????? 9 ?? ??????????"
+        "hi": "प्रश्न 9 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
@@ -408,28 +408,28 @@
       "id": "Q10",
       "question": {
         "en": "What is sample question 10?",
-        "hi": "????? ?????? 10 ???? ???"
+        "hi": "नमूना प्रश्न 10 क्या है?"
       },
       "question_image": "",
       "options": [
         {
           "en": "Option A",
-          "hi": "?????? A",
+          "hi": "विकल्प A",
           "image": ""
         },
         {
           "en": "Option B",
-          "hi": "?????? B",
+          "hi": "विकल्प B",
           "image": ""
         },
         {
           "en": "Option C",
-          "hi": "?????? C",
+          "hi": "विकल्प C",
           "image": ""
         },
         {
           "en": "Option D",
-          "hi": "?????? D",
+          "hi": "विकल्प D",
           "image": ""
         }
       ],
@@ -440,7 +440,7 @@
       "topic": "Reasoning",
       "explanation": {
         "en": "Explanation for question 10",
-        "hi": "?????? 10 ?? ??????????"
+        "hi": "प्रश्न 10 का स्पष्टीकरण"
       },
       "explanation_image": false,
       "sectionId": "ssc_cgl_2020_4_reasoning"
