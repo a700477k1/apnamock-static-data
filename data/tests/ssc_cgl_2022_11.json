@@ -1,0 +1,237 @@
+{
+  "testId": "ssc_cgl_2022_11",
+  "test_id": "ssc_cgl_2022_11",
+  "title": "SSC CGL Mock Test 10",
+  "title_i18n": {
+    "en": "SSC CGL Mock Test 10",
+    "hi": "एसएससी सीजीएल मॉक टेस्ट 10"
+  },
+  "exam_group": "SSC",
+  "exam": "SSC CGL",
+  "paper_type": "PYQ",
+  "year": 2020,
+  "subject": "General Intelligence",
+  "topic": "Mixed",
+  "category": "Full Test",
+  "duration": 60,
+  "totalQuestions": 5,
+  "totalMarks": 5,
+  "negativeMarking": 0.25,
+  "language_mode": "bilingual",
+  "sections": [
+    {
+      "section_id": "ssc_cgl_2022_11_reasoning",
+      "title": {
+        "en": "General Intelligence",
+        "hi": "सामान्य बुद्धिमत्ता"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "question": {
+        "en": "What is sample question 1?",
+        "hi": "नमूना प्रश्न 1 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 1",
+        "hi": "प्रश्न 1 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2022_11_reasoning"
+    },
+    {
+      "id": "Q2",
+      "question": {
+        "en": "What is sample question 2?",
+        "hi": "नमूना प्रश्न 2 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 2",
+        "hi": "प्रश्न 2 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2022_11_reasoning"
+    },
+    {
+      "id": "Q3",
+      "question": {
+        "en": "What is sample question 3?",
+        "hi": "नमूना प्रश्न 3 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 3",
+        "hi": "प्रश्न 3 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2022_11_reasoning"
+    },
+    {
+      "id": "Q4",
+      "question": {
+        "en": "What is sample question 4?",
+        "hi": "नमूना प्रश्न 4 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 4",
+        "hi": "प्रश्न 4 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2022_11_reasoning"
+    },
+    {
+      "id": "Q5",
+      "question": {
+        "en": "What is sample question 5?",
+        "hi": "नमूना प्रश्न 5 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 5",
+        "hi": "प्रश्न 5 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "ssc_cgl_2022_11_reasoning"
+    }
+  ]
+}
