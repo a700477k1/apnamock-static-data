@@ -219,6 +219,28 @@
       "marks": 10,
       "totalMarks": 10,
       "file": "data/tests/ssc_cgl_2022_10.json"
+    },
+    {
+      "test_id": "ssc_cgl_2022_11",
+      "id": "ssc_cgl_2022_11",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 10",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 10",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 10"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 5,
+      "marks": 5,
+      "totalMarks": 5,
+      "file": "data/tests/ssc_cgl_2022_11.json"
     }
   ]
 }
