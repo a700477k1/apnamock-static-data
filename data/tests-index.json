@@ -241,6 +241,28 @@
       "marks": 5,
       "totalMarks": 5,
       "file": "data/tests/ssc_cgl_2022_11.json"
+    },
+    {
+      "test_id": "rrb_ntpc_2022_12",
+      "id": "rrb_ntpc_2022_12",
+      "exam_group": "RRB",
+      "exam": "RRB NTPC",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "Mixed",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "RRB NTPC Mock Test 12",
+      "title_i18n": {
+        "en": "RRB NTPC Mock Test 12",
+        "hi": "मॉक टेस्ट 12"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 5,
+      "marks": 5,
+      "totalMarks": 5,
+      "file": "data/tests/rrb_ntpc_2022_12.json"
     }
   ]
 }
