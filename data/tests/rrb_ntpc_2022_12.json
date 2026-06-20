@@ -1,0 +1,244 @@
+{
+  "testId": "rrb_ntpc_2022_12",
+  "test_id": "rrb_ntpc_2022_12",
+  "title": "RRB NTPC Mock Test 12",
+  "title_i18n": {
+    "en": "RRB NTPC Mock Test 12",
+    "hi": "मॉक टेस्ट 12"
+  },
+  "exam_group": "RRB",
+  "exam": "RRB NTPC",
+  "paper_type": "PYQ",
+  "year": 2020,
+  "subject": "Mixed",
+  "topic": "Mixed",
+  "category": "Full Test",
+  "duration": 60,
+  "totalQuestions": 5,
+  "totalMarks": 5,
+  "negativeMarking": 0.25,
+  "language_mode": "bilingual",
+  "sections": [
+    {
+      "section_id": "rrb_ntpc_2022_12_english",
+      "title": {
+        "en": "English",
+        "hi": "सामान्य बुद्धिमत्ता"
+      }
+    },
+    {
+      "section_id": "rrb_ntpc_2022_12_math",
+      "title": {
+        "en": "Math",
+        "hi": "सामान्य बुद्धिमत्ता"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "question": {
+        "en": "What is sample question 1?",
+        "hi": "नमूना प्रश्न 1 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 1",
+        "hi": "प्रश्न 1 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_2022_12_english"
+    },
+    {
+      "id": "Q2",
+      "question": {
+        "en": "What is sample question 2?",
+        "hi": "नमूना प्रश्न 2 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 2",
+        "hi": "प्रश्न 2 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_2022_12_english"
+    },
+    {
+      "id": "Q3",
+      "question": {
+        "en": "What is sample question 3?",
+        "hi": "नमूना प्रश्न 3 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 3",
+        "hi": "प्रश्न 3 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_2022_12_english"
+    },
+    {
+      "id": "Q4",
+      "question": {
+        "en": "What is sample question 4?",
+        "hi": "नमूना प्रश्न 4 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 4",
+        "hi": "प्रश्न 4 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_2022_12_math"
+    },
+    {
+      "id": "Q5",
+      "question": {
+        "en": "What is sample question 5?",
+        "hi": "नमूना प्रश्न 5 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Reasoning",
+      "explanation": {
+        "en": "Explanation for question 5",
+        "hi": "प्रश्न 5 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_2022_12_math"
+    }
+  ]
+}
