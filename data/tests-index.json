@@ -26,6 +26,13 @@
         "Moderate": 10,
         "Hard": 0
       },
+      "section_difficulty_counts": {
+        "ssc_cgl_2021_1_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
+      },
       "sections": [
         {
           "section_id": "ssc_cgl_2021_1_reasoning",
@@ -69,6 +76,13 @@
         "Easy": 0,
         "Moderate": 10,
         "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "ssc_cgl_2022_2_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
       },
       "sections": [
         {
@@ -114,6 +128,13 @@
         "Moderate": 10,
         "Hard": 0
       },
+      "section_difficulty_counts": {
+        "ssc_cgl_2023_3_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
+      },
       "sections": [
         {
           "section_id": "ssc_cgl_2023_3_reasoning",
@@ -157,6 +178,13 @@
         "Easy": 0,
         "Moderate": 10,
         "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "ssc_cgl_2020_4_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
       },
       "sections": [
         {
@@ -202,6 +230,13 @@
         "Moderate": 10,
         "Hard": 0
       },
+      "section_difficulty_counts": {
+        "ssc_cgl_2021_5_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
+      },
       "sections": [
         {
           "section_id": "ssc_cgl_2021_5_reasoning",
@@ -245,6 +280,13 @@
         "Easy": 0,
         "Moderate": 10,
         "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "ssc_cgl_2022_6_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
       },
       "sections": [
         {
@@ -290,6 +332,13 @@
         "Moderate": 10,
         "Hard": 0
       },
+      "section_difficulty_counts": {
+        "ssc_cgl_2023_7_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
+      },
       "sections": [
         {
           "section_id": "ssc_cgl_2023_7_reasoning",
@@ -333,6 +382,13 @@
         "Easy": 0,
         "Moderate": 10,
         "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "ssc_cgl_2020_8_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
       },
       "sections": [
         {
@@ -378,6 +434,13 @@
         "Moderate": 10,
         "Hard": 0
       },
+      "section_difficulty_counts": {
+        "ssc_cgl_2021_9_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
+      },
       "sections": [
         {
           "section_id": "ssc_cgl_2021_9_reasoning",
@@ -421,6 +484,13 @@
         "Easy": 0,
         "Moderate": 10,
         "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "ssc_cgl_2022_10_reasoning": {
+          "Easy": 0,
+          "Moderate": 10,
+          "Hard": 0
+        }
       },
       "sections": [
         {
@@ -466,6 +536,13 @@
         "Moderate": 5,
         "Hard": 0
       },
+      "section_difficulty_counts": {
+        "ssc_cgl_2022_11_reasoning": {
+          "Easy": 0,
+          "Moderate": 5,
+          "Hard": 0
+        }
+      },
       "sections": [
         {
           "section_id": "ssc_cgl_2022_11_reasoning",
@@ -502,6 +579,18 @@
         "Easy": 0,
         "Moderate": 5,
         "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "rrb_ntpc_2022_12_english": {
+          "Easy": 0,
+          "Moderate": 3,
+          "Hard": 0
+        },
+        "rrb_ntpc_2022_12_math": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        }
       },
       "sections": [
         {
