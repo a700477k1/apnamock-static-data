@@ -20,14 +20,14 @@
   "language_mode": "bilingual",
   "sections": [
     {
-      "section_id": "English",
+      "section_id": "rrb_ntpc_2022_12_english",
       "title": {
         "en": "English",
         "hi": "सामान्य बुद्धिमत्ता"
       }
     },
     {
-      "section_id": "Math",
+      "section_id": "rrb_ntpc_2022_12_math",
       "title": {
         "en": "Math",
         "hi": "सामान्य बुद्धिमत्ता"
@@ -74,7 +74,7 @@
         "hi": "प्रश्न 1 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "English"
+      "sectionId": "rrb_ntpc_2022_12_english"
     },
     {
       "id": "Q2",
@@ -115,7 +115,7 @@
         "hi": "प्रश्न 2 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "English"
+      "sectionId": "rrb_ntpc_2022_12_english"
     },
     {
       "id": "Q3",
@@ -156,7 +156,7 @@
         "hi": "प्रश्न 3 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "English"
+      "sectionId": "rrb_ntpc_2022_12_english"
     },
     {
       "id": "Q4",
@@ -197,7 +197,7 @@
         "hi": "प्रश्न 4 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "Math"
+      "sectionId": "rrb_ntpc_2022_12_math"
     },
     {
       "id": "Q5",
@@ -238,7 +238,7 @@
         "hi": "प्रश्न 5 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "Math"
+      "sectionId": "rrb_ntpc_2022_12_math"
     }
   ]
 }
