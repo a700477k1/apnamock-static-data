@@ -20,6 +20,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2021_1_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2021_1_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2021_1.json"
     },
     {
@@ -42,6 +64,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2022_2_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2022_2_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2022_2.json"
     },
     {
@@ -64,6 +108,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2023_3_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2023_3_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2023_3.json"
     },
     {
@@ -86,6 +152,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2020_4_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2020_4_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2020_4.json"
     },
     {
@@ -108,6 +196,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2021_5_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2021_5_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2021_5.json"
     },
     {
@@ -130,6 +240,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2022_6_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2022_6_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2022_6.json"
     },
     {
@@ -152,6 +284,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2023_7_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2023_7_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2023_7.json"
     },
     {
@@ -174,6 +328,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2020_8_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2020_8_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2020_8.json"
     },
     {
@@ -196,6 +372,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2021_9_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2021_9_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2021_9.json"
     },
     {
@@ -218,6 +416,28 @@
       "questions": 10,
       "marks": 10,
       "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2022_10_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "ssc_cgl_2022_10_math",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2022_10.json"
     },
     {
@@ -240,6 +460,21 @@
       "questions": 5,
       "marks": 5,
       "totalMarks": 5,
+      "question_count": 5,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 5,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "ssc_cgl_2022_11_reasoning",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        }
+      ],
       "file": "data/tests/ssc_cgl_2022_11.json"
     },
     {
@@ -262,6 +497,28 @@
       "questions": 5,
       "marks": 5,
       "totalMarks": 5,
+      "question_count": 5,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 5,
+        "Hard": 0
+      },
+      "sections": [
+        {
+          "section_id": "rrb_ntpc_2022_12_english",
+          "title": {
+            "en": "English",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "rrb_ntpc_2022_12_math",
+          "title": {
+            "en": "Math",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        }
+      ],
       "file": "data/tests/rrb_ntpc_2022_12.json"
     }
   ]
