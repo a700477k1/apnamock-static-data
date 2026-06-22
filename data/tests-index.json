@@ -62,6 +62,20 @@
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
           }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          }
         }
       ],
       "file": "data/tests/ssc_cgl_2021_1.json"
@@ -126,6 +140,20 @@
           "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
             "hi": "मात्रात्मक योग्यता"
           }
         }
@@ -194,6 +222,20 @@
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
           }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          }
         }
       ],
       "file": "data/tests/ssc_cgl_2023_3.json"
@@ -258,6 +300,20 @@
           "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
             "hi": "मात्रात्मक योग्यता"
           }
         }
@@ -326,6 +382,20 @@
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
           }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          }
         }
       ],
       "file": "data/tests/ssc_cgl_2021_5.json"
@@ -390,6 +460,20 @@
           "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
             "hi": "मात्रात्मक योग्यता"
           }
         }
@@ -458,6 +542,20 @@
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
           }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          }
         }
       ],
       "file": "data/tests/ssc_cgl_2023_7.json"
@@ -522,6 +620,20 @@
           "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
             "hi": "मात्रात्मक योग्यता"
           }
         }
@@ -590,6 +702,20 @@
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
           }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          }
         }
       ],
       "file": "data/tests/ssc_cgl_2021_9.json"
@@ -656,6 +782,20 @@
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
           }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          }
         }
       ],
       "file": "data/tests/ssc_cgl_2022_10.json"
@@ -715,6 +855,27 @@
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          }
         }
       ],
       "file": "data/tests/ssc_cgl_2022_11.json"
@@ -769,17 +930,31 @@
       },
       "sections": [
         {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          }
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          }
+        },
+        {
           "section_id": "English",
           "title": {
             "en": "English",
-            "hi": "सामान्य बुद्धिमत्ता"
+            "hi": "मात्रात्मक योग्यता"
           }
         },
         {
           "section_id": "General Knowledge",
           "title": {
             "en": "General Knowledge",
-            "hi": "सामान्य बुद्धिमत्ता"
+            "hi": "मात्रात्मक योग्यता"
           }
         }
       ],
