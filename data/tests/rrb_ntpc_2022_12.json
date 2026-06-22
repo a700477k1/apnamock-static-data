@@ -82,7 +82,7 @@
       "marks": 1,
       "negativeMarks": 0.25,
       "difficulty": "Moderate",
-      "topic": "Reasoning",
+      "topic": "Quantitative Aptitude",
       "explanation": {
         "en": "Explanation for question 1",
         "hi": "प्रश्न 1 का स्पष्टीकरण"
@@ -123,7 +123,7 @@
       "marks": 1,
       "negativeMarks": 0.25,
       "difficulty": "Moderate",
-      "topic": "Reasoning",
+      "topic": "General Intelligence",
       "explanation": {
         "en": "Explanation for question 2",
         "hi": "प्रश्न 2 का स्पष्टीकरण"
@@ -164,7 +164,7 @@
       "marks": 1,
       "negativeMarks": 0.25,
       "difficulty": "Moderate",
-      "topic": "Reasoning",
+      "topic": "English",
       "explanation": {
         "en": "Explanation for question 3",
         "hi": "प्रश्न 3 का स्पष्टीकरण"
@@ -205,7 +205,7 @@
       "marks": 1,
       "negativeMarks": 0.25,
       "difficulty": "Moderate",
-      "topic": "Reasoning",
+      "topic": "General Knowledge",
       "explanation": {
         "en": "Explanation for question 4",
         "hi": "प्रश्न 4 का स्पष्टीकरण"
@@ -246,7 +246,7 @@
       "marks": 1,
       "negativeMarks": 0.25,
       "difficulty": "Moderate",
-      "topic": "Reasoning",
+      "topic": "General Knowledge",
       "explanation": {
         "en": "Explanation for question 5",
         "hi": "प्रश्न 5 का स्पष्टीकरण"
