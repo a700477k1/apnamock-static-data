@@ -32,6 +32,20 @@
         "en": "Quantitative Aptitude",
         "hi": "मात्रात्मक योग्यता"
       }
+    },
+    {
+      "section_id": "English",
+      "title": {
+        "en": "English",
+        "hi": "मात्रात्मक योग्यता"
+      }
+    },
+    {
+      "section_id": "General Knowledge",
+      "title": {
+        "en": "General Knowledge",
+        "hi": "मात्रात्मक योग्यता"
+      }
     }
   ],
   "questions": [
