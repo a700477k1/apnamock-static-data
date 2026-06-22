@@ -27,22 +27,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2021_1_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2021_1_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2021_1_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -78,22 +93,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2022_2_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2022_2_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2022_2_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -129,22 +159,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2023_3_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2023_3_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2023_3_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -180,22 +225,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2020_4_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2020_4_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2020_4_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -231,22 +291,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2021_5_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2021_5_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2021_5_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -282,22 +357,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2022_6_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2022_6_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2022_6_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -333,22 +423,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2023_7_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2023_7_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2023_7_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -384,22 +489,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2020_8_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2020_8_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2020_8_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -435,22 +555,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2021_9_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2021_9_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2021_9_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -486,22 +621,37 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2022_10_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 10,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2022_10_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "ssc_cgl_2022_10_math",
+          "section_id": "Quantitative Aptitude",
           "title": {
             "en": "Quantitative Aptitude",
             "hi": "मात्रात्मक योग्यता"
@@ -537,15 +687,30 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "ssc_cgl_2022_11_reasoning": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 5,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 2,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "ssc_cgl_2022_11_reasoning",
+          "section_id": "General Intelligence",
           "title": {
             "en": "General Intelligence",
             "hi": "सामान्य बुद्धिमत्ता"
@@ -581,12 +746,22 @@
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "rrb_ntpc_2022_12_english": {
+        "Quantitative Aptitude": {
           "Easy": 0,
-          "Moderate": 3,
+          "Moderate": 1,
           "Hard": 0
         },
-        "rrb_ntpc_2022_12_math": {
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "General Knowledge": {
           "Easy": 0,
           "Moderate": 2,
           "Hard": 0
@@ -594,16 +769,16 @@
       },
       "sections": [
         {
-          "section_id": "rrb_ntpc_2022_12_english",
+          "section_id": "English",
           "title": {
             "en": "English",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         },
         {
-          "section_id": "rrb_ntpc_2022_12_math",
+          "section_id": "General Knowledge",
           "title": {
-            "en": "Math",
+            "en": "General Knowledge",
             "hi": "सामान्य बुद्धिमत्ता"
           }
         }
