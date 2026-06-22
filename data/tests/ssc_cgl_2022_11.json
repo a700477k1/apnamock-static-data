@@ -20,7 +20,7 @@
   "language_mode": "bilingual",
   "sections": [
     {
-      "section_id": "ssc_cgl_2022_11_reasoning",
+      "section_id": "General Intelligence",
       "title": {
         "en": "General Intelligence",
         "hi": "सामान्य बुद्धिमत्ता"
@@ -67,7 +67,7 @@
         "hi": "प्रश्न 1 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "ssc_cgl_2022_11_reasoning"
+      "sectionId": "Quantitative Aptitude"
     },
     {
       "id": "Q2",
@@ -108,7 +108,7 @@
         "hi": "प्रश्न 2 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "ssc_cgl_2022_11_reasoning"
+      "sectionId": "General Intelligence"
     },
     {
       "id": "Q3",
@@ -149,7 +149,7 @@
         "hi": "प्रश्न 3 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "ssc_cgl_2022_11_reasoning"
+      "sectionId": "English"
     },
     {
       "id": "Q4",
@@ -190,7 +190,7 @@
         "hi": "प्रश्न 4 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "ssc_cgl_2022_11_reasoning"
+      "sectionId": "General Knowledge"
     },
     {
       "id": "Q5",
@@ -231,7 +231,7 @@
         "hi": "प्रश्न 5 का स्पष्टीकरण"
       },
       "explanation_image": false,
-      "sectionId": "ssc_cgl_2022_11_reasoning"
+      "sectionId": "General Knowledge"
     }
   ]
 }
