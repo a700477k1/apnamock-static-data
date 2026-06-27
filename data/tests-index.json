@@ -900,10 +900,10 @@
       "questions": 5,
       "marks": 5,
       "totalMarks": 5,
-      "question_count": 5,
+      "question_count": 8,
       "difficulty_counts": {
         "Easy": 0,
-        "Moderate": 5,
+        "Moderate": 8,
         "Hard": 0
       },
       "section_difficulty_counts": {
@@ -919,7 +919,7 @@
         },
         "English": {
           "Easy": 0,
-          "Moderate": 1,
+          "Moderate": 4,
           "Hard": 0
         },
         "General Knowledge": {
