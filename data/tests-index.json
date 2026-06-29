@@ -73,7 +73,7 @@
         {
           "section_id": "General Knowledge",
           "title": {
-            "en": "General Knowledge",
+            "en": "General Knowledge 1",
             "hi": "मात्रात्मक योग्यता"
           }
         }
@@ -890,10 +890,10 @@
       "subject": "Mixed",
       "topic": "Mixed",
       "category": "Full Test",
-      "title": "RRB NTPC Mock Test 12",
+      "title": "RRB NTPC Mock Test 12 (1)",
       "title_i18n": {
-        "en": "RRB NTPC Mock Test 12",
-        "hi": "मॉक टेस्ट 12"
+        "en": "RRB NTPC Mock Test 12 (1)",
+        "hi": "मॉक टेस्ट 12 (1)"
       },
       "language_mode": "bilingual",
       "duration": 60,
@@ -959,6 +959,62 @@
         }
       ],
       "file": "data/tests/rrb_ntpc_2022_12.json"
+    },
+    {
+      "test_id": "rrb_ntpc_exam_2026",
+      "id": "rrb_ntpc_exam_2026",
+      "exam_group": "rrb",
+      "exam": "rrb ntpc 2",
+      "paper_type": "Mock",
+      "year": 2026,
+      "subject": "mixed",
+      "topic": "mixed",
+      "category": "mixed",
+      "title": "rrb ntpc exam 2026 (1)",
+      "title_i18n": {
+        "en": "rrb ntpc exam 2026 (1)",
+        "hi": "rrb ntpc exam 2026"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 0,
+      "marks": 0,
+      "totalMarks": 0,
+      "question_count": 5,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 5,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "rrb_ntpc_exam_2026_sec_1": {
+          "Easy": 0,
+          "Moderate": 3,
+          "Hard": 0
+        },
+        "rrb_ntpc_exam_2026_sec_2": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "rrb_ntpc_exam_2026_sec_1",
+          "title": {
+            "en": "Quantative Aptitude",
+            "hi": "qa"
+          }
+        },
+        {
+          "section_id": "rrb_ntpc_exam_2026_sec_2",
+          "title": {
+            "en": "english",
+            "hi": "english"
+          }
+        }
+      ],
+      "file": "data/tests/rrb_ntpc_exam_2026.json"
     }
   ]
 }
