@@ -1,10 +1,10 @@
 {
   "testId": "rrb_ntpc_2022_12",
   "test_id": "rrb_ntpc_2022_12",
-  "title": "RRB NTPC Mock Test 12",
+  "title": "RRB NTPC Mock Test 12 (1)",
   "title_i18n": {
-    "en": "RRB NTPC Mock Test 12",
-    "hi": "मॉक टेस्ट 12"
+    "en": "RRB NTPC Mock Test 12 (1)",
+    "hi": "मॉक टेस्ट 12 (1)"
   },
   "exam_group": "RRB",
   "exam": "RRB NTPC",
@@ -87,7 +87,7 @@
         "en": "Explanation for question 1",
         "hi": "प्रश्न 1 का स्पष्टीकरण"
       },
-      "explanation_image": false,
+      "explanation_image": "",
       "sectionId": "Quantitative Aptitude"
     },
     {
