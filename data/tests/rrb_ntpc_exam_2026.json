@@ -79,7 +79,7 @@
     {
       "id": "Q14",
       "question": {
-        "en": "what is question no 14?",
+        "en": "what is question 14?",
         "hi": ""
       },
       "question_image": "",
@@ -120,7 +120,7 @@
     {
       "id": "Q14",
       "question": {
-        "en": "what is question no 14?",
+        "en": "what is question 14?",
         "hi": ""
       },
       "question_image": "",
@@ -161,7 +161,7 @@
     {
       "id": "Q14",
       "question": {
-        "en": "what is question no 14?",
+        "en": "what is question 14?",
         "hi": ""
       },
       "question_image": "",
@@ -202,10 +202,10 @@
     {
       "id": "Q17",
       "question": {
-        "en": "what is question no 17",
+        "en": "what is question 17?",
         "hi": ""
       },
-      "question_image": "",
+      "question_image": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/questions/Q17_question_image_1782751971527_q11.png",
       "options": [
         {
           "en": "option 1",
