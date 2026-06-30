@@ -1,20 +1,20 @@
 {
-  "last_deploy": "2026-06-29T16:35:16.013Z",
-  "build_id": "20260629_220511",
+  "last_deploy": "2026-06-30T08:28:48.387Z",
+  "build_id": "20260630_135830",
   "hashes": {
-    "ssc_cgl_2021_1": "a83c508ebe266f3ad3dbc7d6ebac5a86",
-    "ssc_cgl_2022_2": "61103aee9f2efbf02a113fc8e76e47c1",
-    "ssc_cgl_2023_3": "37a9b055e92d360520dd352dc3809add",
-    "ssc_cgl_2020_4": "d09dcac340d40844c4c7ee7426b312a6",
-    "ssc_cgl_2021_5": "deb83a8a3a0f9b1dd89fbd286c4122fc",
-    "ssc_cgl_2022_6": "77b16434461952800a541b6f965863c5",
-    "ssc_cgl_2023_7": "e7bb7f9f59c5622fd47c8fc248ca3cbf",
-    "ssc_cgl_2020_8": "246d32ef4a2f897c292c4cc478e979c9",
-    "ssc_cgl_2021_9": "a2aaaf82a6b33e6847bb8608e3a05dd8",
-    "ssc_cgl_2022_10": "81fca18756f154e3bd69cbc29b897d63",
+    "ssc_cgl_2021_1": "95b9ea6c173c2fd3e8ef74ee6b60d80d",
+    "ssc_cgl_2022_2": "1b2af7b6f71c69550dd6ba3017459955",
+    "ssc_cgl_2023_3": "d48265eb8ec386b0a1abf23b32edf033",
+    "ssc_cgl_2020_4": "59b69b780fce87eb1ac42ab479c1c0b4",
+    "ssc_cgl_2021_5": "e74326a8eb752fe1a47d6f47ebe34541",
+    "ssc_cgl_2022_6": "011393a56c88e3131d7f3d7483771738",
+    "ssc_cgl_2023_7": "97ab1c1ba827c6a0a8e3d9995ede31e4",
+    "ssc_cgl_2020_8": "ba9747c43af5c55113a71fb472e3f618",
+    "ssc_cgl_2021_9": "65905576ea1768add527c9603582ab01",
+    "ssc_cgl_2022_10": "46ba9ecc310ba590b2d70f31e1712a69",
     "ssc_cgl_2022_11": "71b6ff0a67347d42b076ae7f9c966043",
     "rrb_ntpc_2022_12": "4bf212e7c6c666cc5c8a3bc58b057587",
-    "rrb_ntpc_exam_2026": "e90455b2b5c3b91209c69f2169b95e3d",
+    "rrb_ntpc_exam_2026": "18f52af29aab024eb2149169a949fc3f",
     "INDEX": "fb4fd306a0dccfad14919a28aeffcb6d"
   }
 }
