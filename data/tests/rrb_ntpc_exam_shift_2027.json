@@ -1,0 +1,367 @@
+{
+  "testId": "rrb_ntpc_exam_shift_2027",
+  "test_id": "rrb_ntpc_exam_shift_2027",
+  "title": "rrb ntpc exam shift 2027",
+  "title_i18n": {
+    "en": "rrb ntpc exam shift 2027",
+    "hi": "rrn"
+  },
+  "exam_group": "rrb",
+  "exam": "rrb ntpc",
+  "paper_type": "PYQ",
+  "year": 2027,
+  "subject": "mixed",
+  "topic": "mixed",
+  "category": "mixed",
+  "duration": 60,
+  "totalQuestions": 8,
+  "totalMarks": 0,
+  "negativeMarking": 0.25,
+  "language_mode": "bilingual",
+  "sections": [
+    {
+      "section_id": "rrb_ntpc_exam_shift_2027_sec_1",
+      "title": {
+        "en": "english",
+        "hi": "english"
+      }
+    },
+    {
+      "section_id": "rrb_ntpc_exam_shift_2027_sec_2",
+      "title": {
+        "en": "math",
+        "hi": "math"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q4",
+      "question": {
+        "en": "What is sample question 4?",
+        "hi": "नमूना प्रश्न 4 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 4",
+        "hi": "प्रश्न 4 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    },
+    {
+      "id": "Q5",
+      "question": {
+        "en": "What is sample question 5?",
+        "hi": "नमूना प्रश्न 5 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 5",
+        "hi": "प्रश्न 5 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    },
+    {
+      "id": "Q1",
+      "question": {
+        "en": "What is sample question 1?",
+        "hi": "नमूना प्रश्न 1 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Quantitative Aptitude",
+      "explanation": {
+        "en": "Explanation for question 1",
+        "hi": "प्रश्न 1 का स्पष्टीकरण"
+      },
+      "explanation_image": "",
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    },
+    {
+      "id": "Q9",
+      "question": {
+        "en": "What is sample question 9?",
+        "hi": "नमूना प्रश्न 9 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 9",
+        "hi": "प्रश्न 9 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    },
+    {
+      "id": "Q6",
+      "question": {
+        "en": "What is sample question 6?",
+        "hi": "नमूना प्रश्न 6 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Quantitative Aptitude",
+      "explanation": {
+        "en": "Explanation for question 6",
+        "hi": "प्रश्न 6 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    },
+    {
+      "id": "Q8",
+      "question": {
+        "en": "What is sample question 8?",
+        "hi": "नमूना प्रश्न 8 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "English",
+      "explanation": {
+        "en": "Explanation for question 8",
+        "hi": "प्रश्न 8 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    },
+    {
+      "id": "Q10",
+      "question": {
+        "en": "What is sample question 10?",
+        "hi": "नमूना प्रश्न 10 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option Aa",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 10",
+        "hi": "प्रश्न 10 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    },
+    {
+      "id": "Q2",
+      "question": {
+        "en": "What is sample question 2?",
+        "hi": "नमूना प्रश्न 2 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Intelligence",
+      "explanation": {
+        "en": "Explanation for question 2",
+        "hi": "प्रश्न 2 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "rrb_ntpc_exam_shift_2027_sec_1"
+    }
+  ]
+}
