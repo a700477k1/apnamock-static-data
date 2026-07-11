@@ -14,7 +14,7 @@
   "topic": "Mixed",
   "category": "Full Test",
   "duration": 60,
-  "totalQuestions": 8,
+  "totalQuestions": 10,
   "totalMarks": 5,
   "negativeMarking": 0.25,
   "language_mode": "bilingual",
@@ -375,6 +375,88 @@
         "hi": ""
       },
       "explanation_image": "",
+      "sectionId": "English"
+    },
+    {
+      "id": "Q6",
+      "question": {
+        "en": "What is sample question 6?",
+        "hi": "नमूना प्रश्न 6 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Quantitative Aptitude",
+      "explanation": {
+        "en": "Explanation for question 6",
+        "hi": "प्रश्न 6 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "English"
+    },
+    {
+      "id": "Q7",
+      "question": {
+        "en": "What is sample question 7?",
+        "hi": "नमूना प्रश्न 7 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Intelligence",
+      "explanation": {
+        "en": "Explanation for question 7",
+        "hi": "प्रश्न 7 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
       "sectionId": "English"
     }
   ]
