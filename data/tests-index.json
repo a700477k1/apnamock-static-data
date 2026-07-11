@@ -900,10 +900,10 @@
       "questions": 5,
       "marks": 5,
       "totalMarks": 5,
-      "question_count": 8,
+      "question_count": 10,
       "difficulty_counts": {
         "Easy": 0,
-        "Moderate": 8,
+        "Moderate": 10,
         "Hard": 0
       },
       "section_difficulty_counts": {
@@ -919,7 +919,7 @@
         },
         "English": {
           "Easy": 0,
-          "Moderate": 4,
+          "Moderate": 6,
           "Hard": 0
         },
         "General Knowledge": {
@@ -961,60 +961,55 @@
       "file": "data/tests/rrb_ntpc_2022_12.json"
     },
     {
-      "test_id": "rrb_ntpc_exam_2026",
-      "id": "rrb_ntpc_exam_2026",
+      "test_id": "rrb_ntpc_exam_shift_2027",
+      "id": "rrb_ntpc_exam_shift_2027",
       "exam_group": "rrb",
-      "exam": "rrb ntpc 2",
-      "paper_type": "Mock",
-      "year": 2026,
+      "exam": "rrb ntpc",
+      "paper_type": "PYQ",
+      "year": 2027,
       "subject": "mixed",
       "topic": "mixed",
       "category": "mixed",
-      "title": "rrb ntpc exam 2026 (2)",
+      "title": "rrb ntpc exam shift 2027",
       "title_i18n": {
-        "en": "rrb ntpc exam 2026 (2)",
-        "hi": "rrb ntpc exam 2026"
+        "en": "rrb ntpc exam shift 2027",
+        "hi": "rrn"
       },
       "language_mode": "bilingual",
       "duration": 60,
       "questions": 0,
       "marks": 0,
       "totalMarks": 0,
-      "question_count": 5,
+      "question_count": 8,
       "difficulty_counts": {
         "Easy": 0,
-        "Moderate": 5,
+        "Moderate": 8,
         "Hard": 0
       },
       "section_difficulty_counts": {
-        "rrb_ntpc_exam_2026_sec_1": {
+        "rrb_ntpc_exam_shift_2027_sec_1": {
           "Easy": 0,
-          "Moderate": 3,
-          "Hard": 0
-        },
-        "rrb_ntpc_exam_2026_sec_2": {
-          "Easy": 0,
-          "Moderate": 2,
+          "Moderate": 8,
           "Hard": 0
         }
       },
       "sections": [
         {
-          "section_id": "rrb_ntpc_exam_2026_sec_1",
+          "section_id": "rrb_ntpc_exam_shift_2027_sec_1",
           "title": {
-            "en": "Quantitative Aptitude",
-            "hi": "मात्रात्मक योग्यता"
+            "en": "english",
+            "hi": "english"
           }
         },
         {
-          "section_id": "rrb_ntpc_exam_2026_sec_2",
+          "section_id": "rrb_ntpc_exam_shift_2027_sec_2",
           "title": {
-            "en": "English",
-            "hi": "मात्रात्मक योग्यता"
+            "en": "math",
+            "hi": "math"
           }
         }
       ],
-      "file": "data/tests/rrb_ntpc_exam_2026.json"
+      "file": "data/tests/rrb_ntpc_exam_shift_2027.json"
     }
   ]
 }
