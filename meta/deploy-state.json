@@ -1,6 +1,6 @@
 {
-  "last_deploy": "2026-07-11T04:11:08.091Z",
-  "build_id": "20260711_094059",
+  "last_deploy": "2026-07-11T04:16:08.332Z",
+  "build_id": "20260711_094601",
   "hashes": {
     "ssc_cgl_2021_1": "95b9ea6c173c2fd3e8ef74ee6b60d80d",
     "ssc_cgl_2022_2": "1b2af7b6f71c69550dd6ba3017459955",
@@ -13,8 +13,6 @@
     "ssc_cgl_2021_9": "65905576ea1768add527c9603582ab01",
     "ssc_cgl_2022_10": "46ba9ecc310ba590b2d70f31e1712a69",
     "ssc_cgl_2022_11": "71b6ff0a67347d42b076ae7f9c966043",
-    "rrb_ntpc_2022_12": "2e22382d76d7fc545e565fa514beb930",
-    "rrb_ntpc_exam_shift_2027": "43a4a292fe47d867f902ee5aea48119e",
-    "INDEX": "91fdff36fb5b026cdbb6d264884594cc"
+    "INDEX": "3cebb0a2feed37c805972d8efb0c082e"
   }
 }
