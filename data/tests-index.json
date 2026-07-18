@@ -879,6 +879,50 @@
         }
       ],
       "file": "data/tests/ssc_cgl_2022_11.json"
+    },
+    {
+      "test_id": "ssc_cgl_2025_9th_september",
+      "id": "ssc_cgl_2025_9th_september",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2025,
+      "subject": "Mixed",
+      "topic": "Mixed",
+      "category": "",
+      "title": "SSC CGL 2025 9th September",
+      "title_i18n": {
+        "en": "SSC CGL 2025 9th September",
+        "hi": "एसएससी सीजीएल 2025, 9 सितंबर"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "questions": 2,
+      "marks": 2,
+      "totalMarks": 2,
+      "question_count": 2,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 2,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "general_intelligence_and_reasoning": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "general_intelligence_and_reasoning",
+          "title": {
+            "en": "General Intelligence and Reasoning",
+            "hi": "सामान्य बुद्धिमत्ता और तर्कशक्ति"
+          }
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2025_9th_september.json"
     }
   ]
 }
