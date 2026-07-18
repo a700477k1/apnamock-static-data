@@ -1,0 +1,114 @@
+{
+  "testId": "ssc_cgl_2025_9th_september",
+  "test_id": "ssc_cgl_2025_9th_september",
+  "title": "SSC CGL 2025 9th September",
+  "title_i18n": {
+    "en": "SSC CGL 2025 9th September",
+    "hi": "एसएससी सीजीएल 2025, 9 सितंबर"
+  },
+  "exam_group": "SSC",
+  "exam": "SSC CGL",
+  "paper_type": "PYQ",
+  "year": 2025,
+  "subject": "Mixed",
+  "topic": "Mixed",
+  "category": "",
+  "duration": 60,
+  "totalQuestions": 2,
+  "totalMarks": 2,
+  "negativeMarking": 0.25,
+  "language_mode": "bilingual",
+  "sections": [
+    {
+      "section_id": "general_intelligence_and_reasoning",
+      "title": {
+        "en": "General Intelligence and Reasoning",
+        "hi": "सामान्य बुद्धिमत्ता और तर्कशक्ति"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q11",
+      "question": {
+        "en": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">What will come in place of the question mark (?) in the following equation, if '+' and '–' are interchanged and '×' and '÷' are interchanged?</span></p><p>$6840 \\div 6 + 245 \\times 4 - 512 = ?$</p>",
+        "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">यदि '+' और '–' के चिन्ह आपस में बदल दिए जाएँ तथा '×' और '÷' के चिन्ह भी आपस में बदल दिए जाएँ, तो निम्नलिखित समीकरण में प्रश्नवाचक चिन्ह (?) के स्थान पर क्या आएगा?</span></p><p>$6840 \\div 6 + 245 \\times 4 - 512 = ?$</p>"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">41490.75</span></p>",
+          "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">41490.75</span></p>",
+          "image": ""
+        },
+        {
+          "en": "<p>42490.75</p>",
+          "hi": "<p>42490.75</p>",
+          "image": ""
+        },
+        {
+          "en": "<p>11500</p>",
+          "hi": "<p>11500</p>",
+          "image": ""
+        },
+        {
+          "en": "<p>13500</p>",
+          "hi": "<p>13500</p>",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Intelligence and Reasoning",
+      "explanation": {
+        "en": "<p>$$</p><p>\\text{After interchanging '+' and '-' , '}\\times\\text{' and '}\\div\\text{':}</p><p>$$</p><p><br></p><p>$$</p><p>6840 \\times 6 - 245 \\div 4 + 512</p><p>$$</p><p><br></p><p>$$</p><p>\\text{Applying BODMAS:}</p><p>$$</p><p><br></p><p>$$</p><p>\\begin{aligned}</p><p>6840 \\times 6 &amp;= 41040 \\\\</p><p>245 \\div 4 &amp;= 61.25 \\\\</p><p>41040 - 61.25 + 512 &amp;= 41490.75</p><p>\\end{aligned}</p><p>$$</p><p><br></p><p>$$</p><p>\\therefore ? = 41490.75</p><p>$$</p>",
+        "hi": "<pre class=\"ql-syntax\" spellcheck=\"false\">$6840 \\div 6 + 245 \\times 4 - 512 = ?$\n&nbsp;\n$$\n\\text{चिह्नों को आपस में बदलने पर:}\n$$\n&nbsp;\n$$\n6840 \\times 6 - 245 \\div 4 + 512\n$$\n&nbsp;\n$$\n\\text{BODMAS नियम लगाने पर:}\n$$\n&nbsp;\n$$\n\\begin{aligned}\n6840 \\times 6 &amp;= 41040 \\\\\n245 \\div 4 &amp;= 61.25 \\\\\n41040 - 61.25 + 512 &amp;= 41490.75\n\\end{aligned}\n$$\n&nbsp;\n$$\n\\therefore ? = 41490.75\n$$\n</pre><p><br></p>"
+      },
+      "explanation_image": "",
+      "sectionId": "general_intelligence_and_reasoning"
+    },
+    {
+      "id": "Q12",
+      "question": {
+        "en": "<p>39 is related to 168 by a certain logic. Following the same logic, 52 is related to 194. To which of the following is 71 related, following the same logic?</p><p>(Note: Operations should be performed on the whole numbers without breaking them into their constituent digits. For example, for 13, operations such as adding, subtracting, multiplying, or dividing 13 are allowed. Breaking 13 into 1 and 3 and then performing operations on the individual digits is not allowed.)</p>",
+        "hi": "<p>39 का संबंध 168 से एक निश्चित तर्क के आधार पर है। उसी तर्क का अनुसरण करते हुए, 48 का संबंध 195 से है। उसी तर्क के अनुसार, 71 का संबंध निम्नलिखित में से किससे होगा?</p><p>(नोट: संक्रियाएँ पूर्ण संख्याओं पर की जानी चाहिए, संख्याओं को उनके अंकों में विभाजित किए बिना। उदाहरण के लिए, 13 पर जोड़ने, घटाने, गुणा करने या भाग देने जैसी संक्रियाएँ की जा सकती हैं। लेकिन 13 को 1 और 3 में विभाजित करके उन अंकों पर गणितीय संक्रियाएँ करना अनुमत नहीं है।)</p>"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">246</span></p>",
+          "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">246</span></p>",
+          "image": ""
+        },
+        {
+          "en": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">267</span></p>",
+          "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">267</span></p>",
+          "image": ""
+        },
+        {
+          "en": "<p>264</p>",
+          "hi": "<p>264</p>",
+          "image": ""
+        },
+        {
+          "en": "<p>183</p>",
+          "hi": "<p>183</p>",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Intelligence and Reasoning",
+      "explanation": {
+        "en": "<p>Logic:</p><p>Output = (Number × 3) + 51</p><ul><li>39 × 3 + 51 = 168</li><li>48 × 3 + 51 = 195</li><li>71 × 3 + 51 = 264</li></ul>",
+        "hi": "<p>तर्क:</p><p>आउटपुट = (संख्या × 3) + 51</p><p>39 × 3 + 51 = 168</p><p>48 × 3 + 51 = 195</p><p>71 × 3 + 51 = 264</p>"
+      },
+      "explanation_image": "",
+      "sectionId": "general_intelligence_and_reasoning"
+    }
+  ]
+}
