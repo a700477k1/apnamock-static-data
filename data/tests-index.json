@@ -900,16 +900,16 @@
       "questions": 2,
       "marks": 2,
       "totalMarks": 2,
-      "question_count": 2,
+      "question_count": 3,
       "difficulty_counts": {
         "Easy": 0,
-        "Moderate": 2,
+        "Moderate": 3,
         "Hard": 0
       },
       "section_difficulty_counts": {
         "general_intelligence_and_reasoning": {
           "Easy": 0,
-          "Moderate": 2,
+          "Moderate": 3,
           "Hard": 0
         }
       },
