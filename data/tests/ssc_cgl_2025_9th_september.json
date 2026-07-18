@@ -113,7 +113,7 @@
     {
       "id": "Q13",
       "question": {
-        "en": "<p><br></p><p>$$\\begin{array}{c|c|c}</p><p>\\text{Item} &amp; \\text{Cost} &amp; \\text{Quantity} \\\\</p><p>\\hline</p><p>\\text{Apple} &amp; 10 &amp; 5 \\\\</p><p>\\text{Banana} &amp; 5 &amp; 10 \\\\</p><p>\\end{array}$$</p>",
+        "en": "<p>This is a test question using katex to create a table in the question </p><p><br></p><p>$$\\begin{array}{c|c|c}</p><p>\\text{Item} &amp; \\text{Cost} &amp; \\text{Quantity} \\\\</p><p>\\hline</p><p>\\text{Apple} &amp; 10 &amp; 5 \\\\</p><p>\\text{Banana} &amp; 5 &amp; 10 \\\\</p><p>\\end{array}$$</p>",
         "hi": "<p><br></p>"
       },
       "question_image": "",
