@@ -9,7 +9,7 @@
       "postDate": "2024-06-24",
       "lastDate": "2024-07-24",
       "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB1_banner_1784659407665_sssc.jpg",
-      "file": "data/jobs/JOB1.json"
+      "file": "data/jobs/JOB1_ssc_combined_graduate_level_cgl_tier_i_2024_11.json"
     },
     {
       "job_id": "JOB2",
@@ -20,7 +20,7 @@
       "postDate": "2026-07-01",
       "lastDate": "2026-08-01",
       "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB2_banner_1784661446861_sssc.jpg",
-      "file": "data/jobs/JOB2.json"
+      "file": "data/jobs/JOB2_ssc_cgl_2026_11.json"
     },
     {
       "job_id": "JOB4",
@@ -31,18 +31,18 @@
       "postDate": "2026-07-01",
       "lastDate": "2026-07-31",
       "imageUrl": "",
-      "file": "data/jobs/JOB4.json"
+      "file": "data/jobs/JOB4_ssc_2024_11.json"
     },
     {
       "job_id": "JOB5",
-      "title": "test job 11",
+      "title": "test job 1111",
       "company": "ssc",
       "category": "ssc",
       "status": "active",
       "postDate": "2026-07-22",
       "lastDate": "2026-07-29",
       "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB5_banner_1784743569715_sssc.jpg",
-      "file": "data/jobs/JOB5.json"
+      "file": "data/jobs/JOB5_test_job_1111.json"
     }
   ]
 }
