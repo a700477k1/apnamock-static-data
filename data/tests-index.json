@@ -923,6 +923,50 @@
         }
       ],
       "file": "data/tests/ssc_cgl_2025_9th_september.json"
+    },
+    {
+      "test_id": "this_is_test_for_incremental_logic",
+      "id": "this_is_test_for_incremental_logic",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2026,
+      "subject": "mixed",
+      "topic": "mixed",
+      "category": "ssc",
+      "title": "this is test for incremental logic",
+      "title_i18n": {
+        "en": "this is test for incremental logic",
+        "hi": ""
+      },
+      "language_mode": "en",
+      "duration": 60,
+      "questions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 1,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 1,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "english": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "english",
+          "title": {
+            "en": "english",
+            "hi": "english"
+          }
+        }
+      ],
+      "file": "data/tests/this_is_test_for_incremental_logic.json"
     }
   ]
 }
