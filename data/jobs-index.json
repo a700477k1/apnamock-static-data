@@ -2,14 +2,14 @@
   "jobs": [
     {
       "job_id": "JOB1",
-      "title": "SSC Combined Graduate Level (CGL) Tier-I 2024 111",
+      "title": "SSC Combined Graduate Level (CGL) Tier-I 2024",
       "company": "Staff Selection Commission (SSC)",
       "category": "SSC",
       "status": "active",
       "postDate": "2024-06-24",
       "lastDate": "2024-07-24",
       "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB1_banner_1784659407665_sssc.jpg",
-      "file": "data/jobs/ssc_combined_graduate_level_cgl_tier_i_2024_111.json"
+      "file": "data/jobs/ssc_combined_graduate_level_cgl_tier_i_2024.json"
     }
   ]
 }
