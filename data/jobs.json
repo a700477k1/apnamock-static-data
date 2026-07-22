@@ -39,7 +39,7 @@
     "description": "<p>ssc</p>"
   },
   {
-    "title": "ssc 1111",
+    "title": "test job",
     "company": "ssc",
     "category": "ssc",
     "status": "active",
@@ -48,7 +48,7 @@
     "eligibility": "not eligible",
     "pdfUrl": "",
     "applyUrl": "",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB5_banner_1784743569715_sssc.jpg",
     "description": "<p>i do not do this</p>"
   }
 ]
