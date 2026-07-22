@@ -1,0 +1,73 @@
+{
+  "testId": "this_is_test_for_incremental_logic",
+  "test_id": "this_is_test_for_incremental_logic",
+  "title": "this is test for incremental logic",
+  "title_i18n": {
+    "en": "this is test for incremental logic",
+    "hi": ""
+  },
+  "exam_group": "SSC",
+  "exam": "SSC CGL",
+  "paper_type": "PYQ",
+  "year": 2026,
+  "subject": "mixed",
+  "topic": "mixed",
+  "category": "ssc",
+  "duration": 60,
+  "totalQuestions": 1,
+  "totalMarks": 10,
+  "negativeMarking": 0.25,
+  "language_mode": "en",
+  "sections": [
+    {
+      "section_id": "english",
+      "title": {
+        "en": "english",
+        "hi": "english"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q13",
+      "question": {
+        "en": "<p>This is a test question using katex to create a table in the question</p><p>$$\\begin{array}{|c|c|c|c|c|c|}</p><p>\\text{Item} &amp; \\text{Cost} &amp; \\text{Quantity} &amp; \\text{Quality} &amp; \\text{SP} &amp; \\text{Profit} \\\\</p><p>\\hline</p><p>\\text{Apple} &amp; 10 &amp; 5 &amp; 5 &amp; 7 &amp; 9\\\\</p><p>\\hline</p><p>\\text{Banana} &amp; 5 &amp; 10 &amp; 5 &amp; 7 &amp; 9 \\\\</p><p>\\hline</p><p>\\end{array}$$</p>",
+        "hi": "<p><br></p>"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "<p>1</p>",
+          "hi": "<p>1</p>",
+          "image": ""
+        },
+        {
+          "en": "<p>11</p>",
+          "hi": "<p><br></p>",
+          "image": ""
+        },
+        {
+          "en": "<p>1</p>",
+          "hi": "<p><br></p>",
+          "image": ""
+        },
+        {
+          "en": "<p>1</p>",
+          "hi": "<p><br></p>",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "",
+      "explanation": {
+        "en": "<p><br></p>",
+        "hi": "<p><br></p>"
+      },
+      "explanation_image": "",
+      "sectionId": "english"
+    }
+  ]
+}
