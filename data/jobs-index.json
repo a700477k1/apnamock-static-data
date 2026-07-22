@@ -13,25 +13,14 @@
     },
     {
       "job_id": "JOB2",
-      "title": "SSC CGL 2026 111",
+      "title": "SSC CGL 2026",
       "company": "STAFF SELECTION COMMISSION",
       "category": "SSC",
       "status": "active",
       "postDate": "2026-07-01",
       "lastDate": "2026-08-01",
       "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB2_banner_1784661446861_sssc.jpg",
-      "file": "data/jobs/ssc_cgl_2026_111.json"
-    },
-    {
-      "job_id": "JOB5",
-      "title": "test job 11111",
-      "company": "ssc",
-      "category": "ssc",
-      "status": "active",
-      "postDate": "2026-07-22",
-      "lastDate": "2026-07-29",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB5_banner_1784743569715_sssc.jpg",
-      "file": "data/jobs/test_job_11111.json"
+      "file": "data/jobs/ssc_cgl_2026.json"
     }
   ]
 }
