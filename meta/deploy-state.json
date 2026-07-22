@@ -1,6 +1,6 @@
 {
-  "last_deploy": "2026-07-22T20:24:56.889Z",
-  "build_id": "20260723_015446",
+  "last_deploy": "2026-07-22T21:43:02.529Z",
+  "build_id": "20260723_031255",
   "hashes": {
     "ssc_cgl_2021_1": "f16e7cbb7328e41c8f21c7dc4d1801cd",
     "ssc_cgl_2022_2": "75177773c8d3b56bc91c2c92d3500a84",
@@ -21,7 +21,7 @@
       "file": "ssc_combined_graduate_level_cgl_tier_i_2024.json"
     },
     "JOBS_INDEX": {
-      "hash": "a96ef3da1f923cdb97777a488f89ae5d",
+      "hash": "d7798d5a0f18d5b9f8fdaaf2149b391c",
       "file": "jobs-index.json"
     }
   }
