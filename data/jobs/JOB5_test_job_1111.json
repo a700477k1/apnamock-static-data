@@ -1,0 +1,14 @@
+{
+  "job_id": "JOB5",
+  "title": "test job 1111",
+  "company": "ssc",
+  "category": "ssc",
+  "status": "active",
+  "postDate": "2026-07-22",
+  "lastDate": "2026-07-29",
+  "eligibility": "not eligible",
+  "pdfUrl": "",
+  "applyUrl": "",
+  "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB5_banner_1784743569715_sssc.jpg",
+  "description": "<p>i do not do this</p>"
+}
