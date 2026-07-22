@@ -1,0 +1,15 @@
+{
+  "job_id": "JOB2",
+  "title": "ssc 1",
+  "company": "ssc",
+  "category": "ssc",
+  "status": "active",
+  "postDate": "2026-07-01",
+  "lastDate": "2026-07-01",
+  "eligibility": "grad",
+  "pdfUrl": "google.com",
+  "applyUrl": "google.com",
+  "imageUrl": "",
+  "description": "<p>good</p>",
+  "file_name": "ssc_1.json"
+}
