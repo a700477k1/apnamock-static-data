@@ -12,6 +12,19 @@
       "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB1_banner_1784659407665_sssc.jpg",
       "file_name": "ssc_combined_graduate_level_cgl_tier_i_2024.json",
       "file": "data/jobs/ssc_combined_graduate_level_cgl_tier_i_2024.json"
+    },
+    {
+      "job_id": "JOB2",
+      "title": "SSC MTS & Havaldar Recruitment 2024 (Multi-Tasking Staff)",
+      "company": "Staff Selection Commission (SSC)",
+      "category": "SSC",
+      "status": "active",
+      "postDate": "2024-05-10",
+      "lastDate": "2024-06-15",
+      "eligibility": "10th Pass (Matriculation)",
+      "imageUrl": "",
+      "file_name": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json",
+      "file": "data/jobs/ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json"
     }
   ]
 }
