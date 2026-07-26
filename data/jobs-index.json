@@ -8,7 +8,10 @@
       "status": "expired",
       "postDate": "2024-06-24",
       "lastDate": "2024-07-24",
+      "extendedLastDate": "",
       "eligibility": "Bachelor's Degree in any discipline from a recognized University.",
+      "totalPosts": "",
+      "applicationFee": "",
       "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB1_banner_1784659407665_sssc.jpg",
       "file_name": "ssc_combined_graduate_level_cgl_tier_i_2024.json",
       "file": "data/jobs/ssc_combined_graduate_level_cgl_tier_i_2024.json"
@@ -21,7 +24,10 @@
       "status": "expired",
       "postDate": "2024-05-10",
       "lastDate": "2024-06-15",
+      "extendedLastDate": "2024-06-30",
       "eligibility": "10th Pass (Matriculation)",
+      "totalPosts": "1000",
+      "applicationFee": "100",
       "imageUrl": "",
       "file_name": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json",
       "file": "data/jobs/ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json"
@@ -34,7 +40,10 @@
       "status": "active",
       "postDate": "2026-07-10",
       "lastDate": "2026-07-31",
+      "extendedLastDate": "2026-08-11",
       "eligibility": "10th Pass (Matriculation)",
+      "totalPosts": "1085",
+      "applicationFee": "100 (GEN)/ Free ST/SC",
       "imageUrl": "",
       "file_name": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_copy.json",
       "file": "data/jobs/ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_copy.json"
