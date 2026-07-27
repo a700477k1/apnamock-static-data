@@ -10,10 +10,11 @@
       "lastDate": "2024-07-24",
       "extendedLastDate": "",
       "eligibility": "Bachelor's Degree in any discipline from a recognized University.",
-      "totalPosts": "",
-      "applicationFee": "",
+      "totalPosts": "239",
+      "applicationFee": "1000 (GEN) | Free (ST/SC/OBC)",
       "stateName": "",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/a700477k1/apnamock-static-data/assets/jobs/JOB1_banner_1784659407665_sssc.jpg",
+      "ageLimit": "18-30 years",
+      "imageUrl": "",
       "file_name": "ssc_combined_graduate_level_cgl_tier_i_2024.json",
       "file": "data/jobs/ssc_combined_graduate_level_cgl_tier_i_2024.json"
     },
@@ -30,6 +31,7 @@
       "totalPosts": "1000",
       "applicationFee": "100",
       "stateName": "",
+      "ageLimit": "",
       "imageUrl": "",
       "file_name": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json",
       "file": "data/jobs/ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json"
@@ -47,6 +49,7 @@
       "totalPosts": "1085",
       "applicationFee": "100 (GEN)/ Free ST/SC",
       "stateName": "",
+      "ageLimit": "",
       "imageUrl": "",
       "file_name": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_copy.json",
       "file": "data/jobs/ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_copy.json"
@@ -60,10 +63,11 @@
       "postDate": "2026-07-10",
       "lastDate": "2026-07-29",
       "extendedLastDate": "",
-      "eligibility": "10th Pass (Matriculation)",
+      "eligibility": "10th Pass (Matriculation) along with diploma or post graduate diploma in sericulture.",
       "totalPosts": "1085",
       "applicationFee": "100 (GEN)/ 50 (ST/SC)",
       "stateName": "Jharkhand",
+      "ageLimit": "18-27 (GEN) | +5 (ST) | +3 (SC) | +1 (OBC)",
       "imageUrl": "",
       "file_name": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_jharkhand.json",
       "file": "data/jobs/ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_jharkhand.json"
