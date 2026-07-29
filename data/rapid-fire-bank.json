@@ -2,7 +2,7 @@
   {
     "id": "RF1",
     "subject": "General Knowledge",
-    "question": "<p>This is a rapid fire test question </p><p>$$sqrt{2}$$</p>",
+    "question": "<p>This is a rapid fire test question </p><p>$$\\sqrt{2}$$</p>",
     "question_image": "",
     "options": [
       "<p>yes</p>",
