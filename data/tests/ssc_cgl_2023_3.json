@@ -52,29 +52,29 @@
     {
       "id": "Q1",
       "question": {
-        "en": "What is sample question 1?",
-        "hi": "नमूना प्रश्न 1 क्या है?"
+        "en": "<p>What is sample question 1?</p>",
+        "hi": "<p>नमूना प्रश्न 1 क्या है?</p>"
       },
       "question_image": "",
       "options": [
         {
-          "en": "Option A",
-          "hi": "विकल्प A",
+          "en": "<p>Option A</p>",
+          "hi": "<p>विकल्प A</p>",
           "image": ""
         },
         {
-          "en": "Option B",
-          "hi": "विकल्प B",
+          "en": "<p>Option B</p>",
+          "hi": "<p>विकल्प B</p>",
           "image": ""
         },
         {
-          "en": "Option C",
-          "hi": "विकल्प C",
+          "en": "<p>Option C</p>",
+          "hi": "<p>विकल्प C</p>",
           "image": ""
         },
         {
-          "en": "Option D",
-          "hi": "विकल्प D",
+          "en": "<p>Option D</p>",
+          "hi": "<p>विकल्प D</p>",
           "image": ""
         }
       ],
@@ -84,8 +84,8 @@
       "difficulty": "Moderate",
       "topic": "Quantitative Aptitude",
       "explanation": {
-        "en": "Explanation for question 1",
-        "hi": "प्रश्न 1 का स्पष्टीकरण"
+        "en": "<p>Explanation for question 1</p>",
+        "hi": "<p>प्रश्न 1 का स्पष्टीकरण</p>"
       },
       "explanation_image": "",
       "sectionId": "Quantitative Aptitude"
@@ -93,29 +93,29 @@
     {
       "id": "Q2",
       "question": {
-        "en": "What is sample question 2?",
-        "hi": "नमूना प्रश्न 2 क्या है?"
+        "en": "<p>What is sample question 2?</p>",
+        "hi": "<p>नमूना प्रश्न 2 क्या है?</p>"
       },
       "question_image": "",
       "options": [
         {
-          "en": "Option A",
-          "hi": "विकल्प A",
+          "en": "<p>Option A</p>",
+          "hi": "<p>विकल्प A</p>",
           "image": ""
         },
         {
-          "en": "Option B",
-          "hi": "विकल्प B",
+          "en": "<p>Option B</p>",
+          "hi": "<p>विकल्प B</p>",
           "image": ""
         },
         {
-          "en": "Option C",
-          "hi": "विकल्प C",
+          "en": "<p>Option C</p>",
+          "hi": "<p>विकल्प C</p>",
           "image": ""
         },
         {
-          "en": "Option D",
-          "hi": "विकल्प D",
+          "en": "<p>Option D</p>",
+          "hi": "<p>विकल्प D</p>",
           "image": ""
         }
       ],
@@ -125,10 +125,10 @@
       "difficulty": "Moderate",
       "topic": "General Intelligence",
       "explanation": {
-        "en": "Explanation for question 2",
-        "hi": "प्रश्न 2 का स्पष्टीकरण"
+        "en": "<p>Explanation for question 2</p>",
+        "hi": "<p>प्रश्न 2 का स्पष्टीकरण</p>"
       },
-      "explanation_image": false,
+      "explanation_image": "",
       "sectionId": "General Intelligence"
     },
     {
