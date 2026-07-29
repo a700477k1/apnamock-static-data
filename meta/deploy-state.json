@@ -1,21 +1,21 @@
 {
-  "last_deploy": "2026-07-27T18:41:14.661Z",
-  "build_id": "20260728_001100",
+  "last_deploy": "2026-07-29T03:36:02.500Z",
+  "build_id": "complete",
   "hashes": {
-    "ssc_cgl_2021_1": "f16e7cbb7328e41c8f21c7dc4d1801cd",
-    "ssc_cgl_2022_2": "75177773c8d3b56bc91c2c92d3500a84",
-    "ssc_cgl_2023_3": "6e0fef6008b58a64e2e79426a70979bf",
-    "ssc_cgl_2020_4": "7da6f232898d6d2bc2f2f7de8345d5ba",
-    "ssc_cgl_2021_5": "323abdb79e440ecca7b0ddaa80fcc911",
-    "ssc_cgl_2022_6": "e254f32b8f832e13e5d11b3662f3ce57",
-    "ssc_cgl_2023_7": "6b0f381bf5307eb5280305ca808dc670",
-    "ssc_cgl_2020_8": "ae46afa605c0a8c6bfd47a3481ed11e0",
-    "ssc_cgl_2021_9": "567fa0e9ab4ae26ecf509c534a16682c",
-    "ssc_cgl_2022_10": "2cf3c345ced27e3d4e7218ad29322793",
+    "ssc_cgl_2021_1": "91498271e62911278cbc3817840ab1cd",
+    "ssc_cgl_2022_2": "0fde6cd546c5f150447e7ccb7124f8f5",
+    "ssc_cgl_2023_3": "9d711bd9f2454e5ced9c6ff68e091f35",
+    "ssc_cgl_2020_4": "142f6f490584d684894bd937e44ce3b6",
+    "ssc_cgl_2021_5": "7478a1b1b578550b4dd3e3a3c17d4135",
+    "ssc_cgl_2022_6": "8b6dff460550f17c50f247f05d0b4626",
+    "ssc_cgl_2023_7": "3931301003d26b996af0d81455196bf8",
+    "ssc_cgl_2020_8": "6357b963cd665f36c66d9c2b36e6229d",
+    "ssc_cgl_2021_9": "2d394aa000de50c29d7f669e91ad2fb5",
+    "ssc_cgl_2022_10": "b192bce5189f1ba642e902a757903930",
     "ssc_cgl_2022_11": "3f82099f3d780d6bd1f650a81f0f87b5",
     "ssc_cgl_2025_9th_september": "30e6552a32a20ea5af14a605af957943",
-    "this_is_test_for_incremental_logic": "c28c541d1ca35898ec0f9b1ef4218a6d",
-    "INDEX": "141cd29ec9177b404ddfcf7bcd1be067",
+    "this_is_test_for_incremental_logic": "05857a5d9bbf5bc5d2e2efec2730c565",
+    "INDEX": "c0f4e906cbf534affe1b472d35166dab",
     "JOB_FILE_JOB1": {
       "hash": "798f2e2557e2fdaec71c09262fcde245",
       "file": "ssc_combined_graduate_level_cgl_tier_i_2024.json"
@@ -29,11 +29,11 @@
       "file": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_copy.json"
     },
     "JOB_FILE_JOB4": {
-      "hash": "c894c70414b7affe1afa691122861fa2",
+      "hash": "2f14306b5a7c905a3581a8e60a86fe70",
       "file": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_jharkhand.json"
     },
     "JOBS_INDEX": {
-      "hash": "fef1fa4c77d9513d4bb09cafa2b8d205",
+      "hash": "c24796136a4bd86ef6f9836fa162d220",
       "file": "jobs-index.json"
     }
   }
