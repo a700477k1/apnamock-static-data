@@ -21,6 +21,27 @@
     "explanation_image": ""
   },
   {
+    "id": "RF2",
+    "subject": "General Knowledge",
+    "question": "<p>this is a rapid fire question test no 1?</p>",
+    "question_image": "",
+    "options": [
+      "<p>yes </p>",
+      "<p>No</p>",
+      "<p><br></p>",
+      "<p><br></p>"
+    ],
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "<p>this explanation shows how the rapid fire screen shows the contents to the users.</p>",
+    "explanation_image": ""
+  },
+  {
     "id": "Q2",
     "subject": "General Intelligence",
     "question": "<p>What is sample question 2?</p>",
