@@ -2,13 +2,29 @@
   {
     "id": "RF1",
     "subject": "General Knowledge",
-    "question": "<p>This is a rapid fire test question </p><p>$$\\sqrt{2}$$</p>",
+    "source_exam": "",
+    "question": {
+      "en": "<p>This is a rapid fire test question </p><p>$$\\sqrt{2}$$</p>",
+      "hi": ""
+    },
     "question_image": "",
     "options": [
-      "<p>yes</p>",
-      "<p>no</p>",
-      "<p><br></p>",
-      "<p><br></p>"
+      {
+        "en": "<p>yes</p>",
+        "hi": ""
+      },
+      {
+        "en": "<p>no</p>",
+        "hi": ""
+      },
+      {
+        "en": "<p><br></p>",
+        "hi": ""
+      },
+      {
+        "en": "<p><br></p>",
+        "hi": ""
+      }
     ],
     "option_images": [
       "",
@@ -17,19 +33,38 @@
       ""
     ],
     "correct": 0,
-    "explanation": "<p>$$\\sqrt{2}$$</p><p>this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question</p>",
+    "explanation": {
+      "en": "<p>$$\\sqrt{2}$$</p><p>this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question this the explanation for rapid test question</p>",
+      "hi": ""
+    },
     "explanation_image": ""
   },
   {
     "id": "RF2",
     "subject": "General Knowledge",
-    "question": "<p>this is a rapid fire question test no 1 (1)?</p>",
+    "source_exam": "",
+    "question": {
+      "en": "<p>this is a rapid fire question test no 1 (1)?</p>",
+      "hi": ""
+    },
     "question_image": "",
     "options": [
-      "<p>yes </p>",
-      "<p>No</p>",
-      "<p><br></p>",
-      "<p><br></p>"
+      {
+        "en": "<p>yes </p>",
+        "hi": ""
+      },
+      {
+        "en": "<p>No</p>",
+        "hi": ""
+      },
+      {
+        "en": "<p><br></p>",
+        "hi": ""
+      },
+      {
+        "en": "<p><br></p>",
+        "hi": ""
+      }
     ],
     "option_images": [
       "",
@@ -38,19 +73,38 @@
       ""
     ],
     "correct": 0,
-    "explanation": "<p>this explanation shows how the rapid fire screen shows the contents to the users.</p>",
+    "explanation": {
+      "en": "<p>this explanation shows how the rapid fire screen shows the contents to the users.</p>",
+      "hi": ""
+    },
     "explanation_image": ""
   },
   {
     "id": "RF3",
     "subject": "General Knowledge",
-    "question": "<p>Rapid Fire Question 2 (1)</p>",
+    "source_exam": "SSC CGL 2023",
+    "question": {
+      "en": "<p>Rapid Fire Question 2 (1)</p>",
+      "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">रैपिड फायर प्रश्न 2 (1)</span></p>"
+    },
     "question_image": "",
     "options": [
-      "<p>yes</p>",
-      "<p>no</p>",
-      "<p><br></p>",
-      "<p><br></p>"
+      {
+        "en": "<p>yes</p>",
+        "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">रैपिड फायर प्रश्न 2 (1)</span></p>"
+      },
+      {
+        "en": "<p>no</p>",
+        "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">रैपिड फायर प्रश्न 2 (1)</span></p>"
+      },
+      {
+        "en": "<p>YES</p>",
+        "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">रैपिड फायर प्रश्न 2 (1)</span></p>"
+      },
+      {
+        "en": "<p>YES 2</p>",
+        "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">रैपिड फायर प्रश्न 2 (1)</span></p>"
+      }
     ],
     "option_images": [
       "",
@@ -59,19 +113,38 @@
       ""
     ],
     "correct": 0,
-    "explanation": "<p><br></p>",
+    "explanation": {
+      "en": "<p>English: Photosynthesis</p><ol><li>Photosynthesis is the process by which green plants make their own food.</li><li>It mainly takes place in the leaves of plants.</li><li>Plants use sunlight as a source of energy.</li><li>They take in carbon dioxide from the air.</li><li>They absorb water from the soil through their roots.</li><li>Chlorophyll, the green pigment in leaves, helps capture sunlight.</li><li>Using sunlight, plants convert water and carbon dioxide into glucose.</li><li>Glucose is the food that gives plants energy to grow.</li><li>During this process, plants release oxygen into the air.</li><li>Photosynthesis is important because it provides food and oxygen for living things.</li></ol><p><br></p>",
+      "hi": "<p>हिंदी:</p><ol><li>प्रकाश संश्लेषण वह प्रक्रिया है जिसके द्वारा हरे पौधे अपना भोजन स्वयं बनाते हैं।</li><li>यह मुख्य रूप से पौधों की पत्तियों में होता है।</li><li>पौधे सूर्य के प्रकाश का उपयोग करके प्रकाश ऊर्जा को रासायनिक ऊर्जा में बदलते हैं।</li><li>वे रंध्रों नामक छोटे छिद्रों के माध्यम से हवा से कार्बन डाइऑक्साइड अवशोषित करते हैं।</li><li>जड़ें मिट्टी से पानी और आवश्यक खनिज लवण अवशोषित करती हैं।</li><li>क्लोरोफिल, पत्तियों में मौजूद हरा वर्णक, सूर्य के प्रकाश को पकड़ता है।</li><li>इस प्रक्रिया के दौरान, ऑक्सीजन एक उपोत्पाद के रूप में वायुमंडल में छोड़ी जाती है।</li><li>तैयार किया गया भोजन पौधे में स्टार्च के रूप में संग्रहित किया जाता है।</li><li>यह प्रक्रिया पृथ्वी पर सभी जीवित प्राणियों के अस्तित्व के लिए महत्वपूर्ण है।</li><li>यह सांस लेने के लिए ऑक्सीजन प्रदान करता है और खाद्य श्रृंखला का आधार बनता है।</li></ol><p><br></p>"
+    },
     "explanation_image": ""
   },
   {
     "id": "Q2",
     "subject": "General Intelligence",
-    "question": "<p>What is sample question 2?</p>",
+    "source_exam": "SSC CGL",
+    "question": {
+      "en": "<p>What is sample question 2?</p>",
+      "hi": "<p>नमूना प्रश्न 2 क्या है?</p>"
+    },
     "question_image": "",
     "options": [
-      "<p>Option A</p>",
-      "<p>Option B</p>",
-      "<p>Option C</p>",
-      "<p>Option D</p>"
+      {
+        "en": "<p>Option A</p>",
+        "hi": "<p>विकल्प A</p>"
+      },
+      {
+        "en": "<p>Option B</p>",
+        "hi": "<p>विकल्प B</p>"
+      },
+      {
+        "en": "<p>Option C</p>",
+        "hi": "<p>विकल्प C</p>"
+      },
+      {
+        "en": "<p>Option D</p>",
+        "hi": "<p>विकल्प D</p>"
+      }
     ],
     "option_images": [
       "",
@@ -80,19 +153,38 @@
       ""
     ],
     "correct": 2,
-    "explanation": "<p>Explanation for question 2</p>",
+    "explanation": {
+      "en": "<p>Explanation for question 2</p>",
+      "hi": "<p>प्रश्न 2 का स्पष्टीकरण</p>"
+    },
     "explanation_image": ""
   },
   {
     "id": "Q3",
     "subject": "English",
-    "question": "<p>What is sample question 3?</p>",
+    "source_exam": "SSC CGL",
+    "question": {
+      "en": "<p>What is sample question 3?</p>",
+      "hi": "<p>नमूना प्रश्न 3 क्या है?</p>"
+    },
     "question_image": "",
     "options": [
-      "<p>Option A</p>",
-      "<p>Option B</p>",
-      "<p>Option C</p>",
-      "<p>Option D</p>"
+      {
+        "en": "<p>Option A</p>",
+        "hi": "<p>विकल्प A</p>"
+      },
+      {
+        "en": "<p>Option B</p>",
+        "hi": "<p>विकल्प B</p>"
+      },
+      {
+        "en": "<p>Option C</p>",
+        "hi": "<p>विकल्प C</p>"
+      },
+      {
+        "en": "<p>Option D</p>",
+        "hi": "<p>विकल्प D</p>"
+      }
     ],
     "option_images": [
       "",
@@ -101,19 +193,38 @@
       ""
     ],
     "correct": 2,
-    "explanation": "<p>Explanation for question 3</p>",
+    "explanation": {
+      "en": "<p>Explanation for question 3</p>",
+      "hi": "<p>प्रश्न 3 का स्पष्टीकरण</p>"
+    },
     "explanation_image": ""
   },
   {
     "id": "Q12",
     "subject": "General Intelligence and Reasoning",
-    "question": "<p>39 is related to 168 by a certain logic. Following the same logic, 52 is related to 194. To which of the following is 71 related, following the same logic?</p><p>(Note: Operations should be performed on the whole numbers without breaking them into their constituent digits. For example, for 13, operations such as adding, subtracting, multiplying, or dividing 13 are allowed. Breaking 13 into 1 and 3 and then performing operations on the individual digits is not allowed.)</p>",
+    "source_exam": "",
+    "question": {
+      "en": "<p>39 is related to 168 by a certain logic. Following the same logic, 52 is related to 194. To which of the following is 71 related, following the same logic?</p><p>(Note: Operations should be performed on the whole numbers without breaking them into their constituent digits. For example, for 13, operations such as adding, subtracting, multiplying, or dividing 13 are allowed. Breaking 13 into 1 and 3 and then performing operations on the individual digits is not allowed.)</p>",
+      "hi": "<p>39 का संबंध 168 से एक निश्चित तर्क के आधार पर है। उसी तर्क का अनुसरण करते हुए, 48 का संबंध 195 से है। उसी तर्क के अनुसार, 71 का संबंध निम्नलिखित में से किससे होगा?</p><p>(नोट: संक्रियाएँ पूर्ण संख्याओं पर की जानी चाहिए, संख्याओं को उनके अंकों में विभाजित किए बिना। उदाहरण के लिए, 13 पर जोड़ने, घटाने, गुणा करने या भाग देने जैसी संक्रियाएँ की जा सकती हैं। लेकिन 13 को 1 और 3 में विभाजित करके उन अंकों पर गणितीय संक्रियाएँ करना अनुमत नहीं है।)</p>"
+    },
     "question_image": "",
     "options": [
-      "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">246</span></p>",
-      "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">267</span></p>",
-      "<p>264</p>",
-      "<p>183</p>"
+      {
+        "en": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">246</span></p>",
+        "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">246</span></p>"
+      },
+      {
+        "en": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">267</span></p>",
+        "hi": "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">267</span></p>"
+      },
+      {
+        "en": "<p>264</p>",
+        "hi": "<p>264</p>"
+      },
+      {
+        "en": "<p>183</p>",
+        "hi": "<p>183</p>"
+      }
     ],
     "option_images": [
       "",
@@ -122,19 +233,38 @@
       ""
     ],
     "correct": 2,
-    "explanation": "<p>Logic:</p><p>Output = (Number × 3) + 51</p><ul><li>39 × 3 + 51 = 168</li><li>48 × 3 + 51 = 195</li><li>71 × 3 + 51 = 264</li></ul><p><br></p><p>If it <em>still</em> doesn't render after this, the issue is with how the explanation is saved in your backend database.</p><p>For example, if the backend saved the math with escaped slashes like <code style=\"background-color: rgb(236, 236, 236);\">\\\\(</code> instead of <code style=\"background-color: rgb(236, 236, 236);\">\\(</code>, or if it escaped the dollar signs like <code style=\"background-color: rgb(236, 236, 236);\">\\$x^2\\$</code>, KaTeX will ignore it because it doesn't recognize the delimiters. You can verify this by right-clicking the explanation on your website, selecting <span style=\"color: rgb(0, 0, 0);\">\"Inspect\"</span>, and looking at the HTML text. If you see <code style=\"background-color: rgb(236, 236, 236);\">\\$</code> or <code style=\"background-color: rgb(236, 236, 236);\">\\\\(</code>, you will need to adjust your Quill editor settings on the backend to stop it from escaping those characters.</p>",
+    "explanation": {
+      "en": "<p>Logic:</p><p>Output = (Number × 3) + 51</p><ul><li>39 × 3 + 51 = 168</li><li>48 × 3 + 51 = 195</li><li>71 × 3 + 51 = 264</li></ul><p><br></p><p>If it <em>still</em> doesn't render after this, the issue is with how the explanation is saved in your backend database.</p><p>For example, if the backend saved the math with escaped slashes like <code style=\"background-color: rgb(236, 236, 236);\">\\\\(</code> instead of <code style=\"background-color: rgb(236, 236, 236);\">\\(</code>, or if it escaped the dollar signs like <code style=\"background-color: rgb(236, 236, 236);\">\\$x^2\\$</code>, KaTeX will ignore it because it doesn't recognize the delimiters. You can verify this by right-clicking the explanation on your website, selecting <span style=\"color: rgb(0, 0, 0);\">\"Inspect\"</span>, and looking at the HTML text. If you see <code style=\"background-color: rgb(236, 236, 236);\">\\$</code> or <code style=\"background-color: rgb(236, 236, 236);\">\\\\(</code>, you will need to adjust your Quill editor settings on the backend to stop it from escaping those characters.</p>",
+      "hi": "<p>तर्क:</p><p>आउटपुट = (संख्या × 3) + 51</p><p>39 × 3 + 51 = 168</p><p>48 × 3 + 51 = 195</p><p>71 × 3 + 51 = 264</p>"
+    },
     "explanation_image": ""
   },
   {
     "id": "Q13",
     "subject": "General",
-    "question": "<p>This is a test question using katex to create a table in the question</p><p>$$\\begin{array}{|c|c|c|c|c|c|}</p><p>\\text{Item} &amp; \\text{Cost} &amp; \\text{Quantity} &amp; \\text{Quality} &amp; \\text{SP} &amp; \\text{Profit} \\\\</p><p>\\hline</p><p>\\text{Apple} &amp; 10 &amp; 5 &amp; 5 &amp; 7 &amp; 9\\\\</p><p>\\hline</p><p>\\text{Banana} &amp; 5 &amp; 10 &amp; 5 &amp; 7 &amp; 9 \\\\</p><p>\\hline</p><p>\\end{array}$$</p>",
+    "source_exam": "",
+    "question": {
+      "en": "<p>This is a test question using katex to create a table in the question</p><p>$$\\begin{array}{|c|c|c|c|c|c|}</p><p>\\text{Item} &amp; \\text{Cost} &amp; \\text{Quantity} &amp; \\text{Quality} &amp; \\text{SP} &amp; \\text{Profit} \\\\</p><p>\\hline</p><p>\\text{Apple} &amp; 10 &amp; 5 &amp; 5 &amp; 7 &amp; 9\\\\</p><p>\\hline</p><p>\\text{Banana} &amp; 5 &amp; 10 &amp; 5 &amp; 7 &amp; 9 \\\\</p><p>\\hline</p><p>\\end{array}$$</p>",
+      "hi": "<p><br></p>"
+    },
     "question_image": "",
     "options": [
-      "<p>1</p>",
-      "<p>11</p>",
-      "<p>1</p>",
-      "<p>1</p>"
+      {
+        "en": "<p>1</p>",
+        "hi": "<p>1</p>"
+      },
+      {
+        "en": "<p>11</p>",
+        "hi": "<p><br></p>"
+      },
+      {
+        "en": "<p>1</p>",
+        "hi": "<p><br></p>"
+      },
+      {
+        "en": "<p>1</p>",
+        "hi": "<p><br></p>"
+      }
     ],
     "option_images": [
       "",
@@ -143,7 +273,10 @@
       ""
     ],
     "correct": 0,
-    "explanation": "<p><br></p>",
+    "explanation": {
+      "en": "<p><br></p>",
+      "hi": "<p><br></p>"
+    },
     "explanation_image": ""
   }
 ]
