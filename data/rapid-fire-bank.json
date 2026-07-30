@@ -42,6 +42,27 @@
     "explanation_image": ""
   },
   {
+    "id": "RF3",
+    "subject": "General Knowledge",
+    "question": "<p>Rapid Fire Question 2.</p>",
+    "question_image": "",
+    "options": [
+      "<p>yes</p>",
+      "<p>no</p>",
+      "<p><br></p>",
+      "<p><br></p>"
+    ],
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "<p><br></p>",
+    "explanation_image": ""
+  },
+  {
     "id": "Q2",
     "subject": "General Intelligence",
     "question": "<p>What is sample question 2?</p>",
