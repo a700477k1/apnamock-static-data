@@ -103,5 +103,47 @@
     "correct": 2,
     "explanation": "<p>Explanation for question 3</p>",
     "explanation_image": ""
+  },
+  {
+    "id": "Q12",
+    "subject": "General Intelligence and Reasoning",
+    "question": "<p>39 is related to 168 by a certain logic. Following the same logic, 52 is related to 194. To which of the following is 71 related, following the same logic?</p><p>(Note: Operations should be performed on the whole numbers without breaking them into their constituent digits. For example, for 13, operations such as adding, subtracting, multiplying, or dividing 13 are allowed. Breaking 13 into 1 and 3 and then performing operations on the individual digits is not allowed.)</p>",
+    "question_image": "",
+    "options": [
+      "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">246</span></p>",
+      "<p><span style=\"background-color: rgb(252, 250, 248); color: rgb(46, 43, 41);\">267</span></p>",
+      "<p>264</p>",
+      "<p>183</p>"
+    ],
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct": 2,
+    "explanation": "<p>Logic:</p><p>Output = (Number × 3) + 51</p><ul><li>39 × 3 + 51 = 168</li><li>48 × 3 + 51 = 195</li><li>71 × 3 + 51 = 264</li></ul><p><br></p><p>If it <em>still</em> doesn't render after this, the issue is with how the explanation is saved in your backend database.</p><p>For example, if the backend saved the math with escaped slashes like <code style=\"background-color: rgb(236, 236, 236);\">\\\\(</code> instead of <code style=\"background-color: rgb(236, 236, 236);\">\\(</code>, or if it escaped the dollar signs like <code style=\"background-color: rgb(236, 236, 236);\">\\$x^2\\$</code>, KaTeX will ignore it because it doesn't recognize the delimiters. You can verify this by right-clicking the explanation on your website, selecting <span style=\"color: rgb(0, 0, 0);\">\"Inspect\"</span>, and looking at the HTML text. If you see <code style=\"background-color: rgb(236, 236, 236);\">\\$</code> or <code style=\"background-color: rgb(236, 236, 236);\">\\\\(</code>, you will need to adjust your Quill editor settings on the backend to stop it from escaping those characters.</p>",
+    "explanation_image": ""
+  },
+  {
+    "id": "Q13",
+    "subject": "General",
+    "question": "<p>This is a test question using katex to create a table in the question</p><p>$$\\begin{array}{|c|c|c|c|c|c|}</p><p>\\text{Item} &amp; \\text{Cost} &amp; \\text{Quantity} &amp; \\text{Quality} &amp; \\text{SP} &amp; \\text{Profit} \\\\</p><p>\\hline</p><p>\\text{Apple} &amp; 10 &amp; 5 &amp; 5 &amp; 7 &amp; 9\\\\</p><p>\\hline</p><p>\\text{Banana} &amp; 5 &amp; 10 &amp; 5 &amp; 7 &amp; 9 \\\\</p><p>\\hline</p><p>\\end{array}$$</p>",
+    "question_image": "",
+    "options": [
+      "<p>1</p>",
+      "<p>11</p>",
+      "<p>1</p>",
+      "<p>1</p>"
+    ],
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correct": 0,
+    "explanation": "<p><br></p>",
+    "explanation_image": ""
   }
 ]
