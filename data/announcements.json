@@ -1,6 +1,7 @@
 {
   "announcements": [
     {
+      "announcement_id": "ANN2",
       "type": "result",
       "title": "SSC CGL 2026 Result has been Announced",
       "description": "<p>SSc has just released the result for ssc cgl 2026</p>",
@@ -8,9 +9,10 @@
       "date": "2026-08-22"
     },
     {
-      "type": "admit_card",
+      "announcement_id": "ANN1",
+      "type": "admit card",
       "title": "SSC CGL 2024 Admit Card Released",
-      "description": "Download your hall ticket for Tier 1 before the exam date.",
+      "description": "<p>Download your hall ticket for Tier 1 before the exam date.</p>",
       "link": "https://ssc.nic.in",
       "date": "2024-11-15"
     }
