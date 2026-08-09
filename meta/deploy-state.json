@@ -1,5 +1,5 @@
 {
-  "last_deploy": "2026-08-09T14:54:34.627Z",
+  "last_deploy": "2026-08-09T15:32:51.648Z",
   "build_id": "complete",
   "hashes": {
     "ssc_cgl_2021_1": "21e9ae131114970d5660cf83d0f229d5",
@@ -36,6 +36,6 @@
       "hash": "b5096f4d9109642a0d991ac09b3595f6",
       "file": "jobs-index.json"
     },
-    "ANNOUNCEMENTS_INDEX": "e0259768c0f9c2f55860bd9a903a4500"
+    "ANNOUNCEMENTS_INDEX": "75b8f90c321a25f27b2ca66eac4807c3"
   }
 }
