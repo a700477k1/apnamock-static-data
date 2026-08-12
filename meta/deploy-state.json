@@ -1,5 +1,5 @@
 {
-  "last_deploy": "2026-08-09T16:04:11.527Z",
+  "last_deploy": "2026-08-12T19:54:48.315Z",
   "build_id": "complete",
   "hashes": {
     "ssc_cgl_2021_1": "21e9ae131114970d5660cf83d0f229d5",
@@ -17,23 +17,23 @@
     "this_is_test_for_incremental_logic": "05857a5d9bbf5bc5d2e2efec2730c565",
     "INDEX": "c0f4e906cbf534affe1b472d35166dab",
     "JOB_FILE_JOB1": {
-      "hash": "798f2e2557e2fdaec71c09262fcde245",
+      "hash": "12acd7620332059973d920c74a01a964",
       "file": "ssc_combined_graduate_level_cgl_tier_i_2024.json"
     },
     "JOB_FILE_JOB2": {
-      "hash": "125574eb5c804743c4a20f8cd24d2565",
+      "hash": "96833fe665ec98e53407c8b99151a524",
       "file": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json"
     },
     "JOB_FILE_JOB3": {
-      "hash": "40e61b2eba9bd35ef9bad1bc8535fdf2",
+      "hash": "d7e16df0b57297ae3c1f303155a79033",
       "file": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_copy.json"
     },
     "JOB_FILE_JOB4": {
-      "hash": "342826b4ea9b3e8c2177dbaf42703525",
+      "hash": "60da28a5a0482c0c0cc7a0f4cfac2719",
       "file": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_jharkhand.json"
     },
     "JOBS_INDEX": {
-      "hash": "b5096f4d9109642a0d991ac09b3595f6",
+      "hash": "2a0eb44ce2bd85c584875c2f4ef073e2",
       "file": "jobs-index.json"
     },
     "ANNOUNCEMENTS_INDEX": "9051f97923cbaba4d47b2056dbc351b7"
