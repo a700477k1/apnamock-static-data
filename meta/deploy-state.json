@@ -1,5 +1,5 @@
 {
-  "last_deploy": "2026-08-12T19:54:57.667Z",
+  "last_deploy": "2026-08-14T03:23:47.925Z",
   "build_id": "complete",
   "hashes": {
     "ssc_cgl_2021_1": "21e9ae131114970d5660cf83d0f229d5",
@@ -21,7 +21,7 @@
       "file": "ssc_combined_graduate_level_cgl_tier_i_2024.json"
     },
     "JOB_FILE_JOB2": {
-      "hash": "96833fe665ec98e53407c8b99151a524",
+      "hash": "d8df6e51e780fb87e527a6671db4cd98",
       "file": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff.json"
     },
     "JOB_FILE_JOB3": {
@@ -33,7 +33,7 @@
       "file": "ssc_mts_havaldar_recruitment_2024_multi_tasking_staff_jharkhand.json"
     },
     "JOBS_INDEX": {
-      "hash": "2a0eb44ce2bd85c584875c2f4ef073e2",
+      "hash": "5291e8744d1546ac227c12ca902fb504",
       "file": "jobs-index.json"
     },
     "ANNOUNCEMENTS_INDEX": "9051f97923cbaba4d47b2056dbc351b7"
