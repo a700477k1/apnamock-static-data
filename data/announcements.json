@@ -17,6 +17,14 @@
       "date": "2026-08-22"
     },
     {
+      "announcement_id": "ANN4",
+      "type": "exam date",
+      "title": "JSSC JDLCCE Exam Date Announced",
+      "description": "<p>Please download it by clicking on the open link button</p>",
+      "link": "https://google.com",
+      "date": "2026-08-22"
+    },
+    {
       "announcement_id": "ANN1",
       "type": "admit card",
       "title": "SSC CGL 2024 Admit Card Released",
